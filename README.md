@@ -15,7 +15,7 @@
   1. This one is more straightforward. You simply need to have pandas and BeautifulSoup.  Run all cells in order and you should be left with a semi-usable .csv containing info on all reports made to NUFORC in the last ~100 years.
 
 #### Analysis.ipynb
-  1. I don't recommend doing anything with this yet. It's outdated and hasn't been updated to reflect changes made in the source files.
+  1. I don't recommend doing anything with this yet. All I've done so far here is organized the necessary data, haven't actually started analyzing it yet.
 
 ### Current Progress:
 
