@@ -21,6 +21,6 @@ I was browsing the web for interesting data sets to analyze when I happened upon
 
 After taking a look through the data, I figured it might be fun to look into the frequency of reports as it relates to some other variable. I decided to answer the question:
 
-#### Does the frequency of UFO reports across the U.S. increase following the release of popular Alien-related movies?
+### Does the frequency of UFO reports across the U.S. increase following the release of popular Alien-related movies?
 
 To answer this question, I needed to find, of course, some data about movies relating to Aliens. I figured my best option was to go to IMDb.com and do the same thing I did with the NUFORC data: parse the source HTML using BeautifulSoup.  IMDb, however, loads all of their pages dynamically, so I wasn't going to be able to do this with just BeautifulSoup alone.  Enter Selenium! Using Selenium, I was able to automate an instance of Chrome to visit IMDb, search for movies by a specified keyword, load and grab the necessary info from each movie's page, and bundle it all into a DataFrame which could be easily exported into a .csv using the Pandas library.  This was done in the jupter notebook IMDB_Scrape_3.ipynb.
