@@ -1,0 +1,1518 @@
+,Title,IMDB_Rating,Movie Description,Release Date,Budget,Gross US & Canada,Opening Weekend US & Canada,Gross Worldwide
+0,Don't Look Up,7.3,,"December 24, 2021 (United States)",,,,"$782,826"
+1,Dune,8.1,,"October 22, 2021 (United States)","$165,000,000 (estimated)","$107,249,263","$41,011,174","$396,149,263"
+2,The Suicide Squad,7.2,,"August 5, 2021 (United States)","$185,000,000 (estimated)","$55,800,219","$26,205,415","$167,400,219"
+3,Venom: Let There Be Carnage,6.0,,"October 1, 2021 (United States)",,"$212,638,437","$90,033,210","$501,138,437"
+4,Spider-Man: Far from Home,7.4,,"July 2, 2019 (United States)","$160,000,000 (estimated)","$390,532,085","$92,579,212","$1,131,927,996"
+5,Eternals,6.8,,"November 5, 2021 (United States)",,"$164,751,155","$71,297,219","$401,666,534"
+6,Avengers: Endgame,8.4,,"April 26, 2019 (United States)","$356,000,000 (estimated)","$858,373,000","$357,115,007","$2,797,501,328"
+7,Venom,6.7,,"October 5, 2018 (United States)","$100,000,000 (estimated)","$213,515,506","$80,255,756","$856,085,151"
+8,Avengers: Infinity War,8.4,,"April 27, 2018 (United States)","$321,000,000 (estimated)","$678,815,482","$257,698,183","$2,048,359,754"
+9,Zack Snyder's Justice League,8.1,,"March 18, 2021 (United States)",,,,
+10,Captain Marvel,6.8,,"March 8, 2019 (United States)","$160,000,000 (estimated)","$426,829,839","$153,433,423","$1,128,462,972"
+11,Avatar 2,,,"December 16, 2022 (United States)",,,,
+12,Guardians of the Galaxy,8.0,,"August 1, 2014 (United States)","$170,000,000 (estimated)","$333,718,600","$94,320,883","$773,350,147"
+13,The Avengers,8.0,,"May 4, 2012 (United States)","$220,000,000 (estimated)","$623,357,910","$207,438,708","$1,518,815,515"
+14,Thor: Ragnarok,7.9,,"November 3, 2017 (United States)","$180,000,000 (estimated)","$315,058,289","$122,744,989","$853,983,911"
+15,Encounter,5.8,,,,,,
+16,Star Wars: Episode IX - The Rise of Skywalker,6.5,,"December 20, 2019 (United States)","$275,000,000 (estimated)","$515,202,542","$177,383,864","$1,074,149,279"
+17,Avatar,7.8,,"December 18, 2009 (United States)","$237,000,000 (estimated)","$760,507,625","$77,025,481","$2,847,246,203"
+18,A Quiet Place Part II,7.3,,"May 28, 2021 (United States)",,"$160,072,261","$47,547,231","$297,372,261"
+19,Star Wars: Episode IV - A New Hope,8.6,,"May 25, 1977 (United States)","$11,000,000 (estimated)","$460,998,507","$1,554,475","$775,398,007"
+20,The Tomorrow War,6.6,,"July 2, 2021 (United States)","$200,000,000 (estimated)",,,"$14,400,000"
+21,Guardians of the Galaxy Vol. 2,7.6,,,"$200,000,000 (estimated)","$389,813,101","$146,510,104","$863,756,051"
+22,E.T. the Extra-Terrestrial,7.8,,"June 11, 1982 (United States)","$10,500,000 (estimated)","$435,110,554","$11,835,389","$792,910,554"
+23,Aliens,8.3,,"July 18, 1986 (United States)","$18,500,000 (estimated)","$85,160,248","$10,052,042","$131,060,248"
+24,Star Wars: Episode VII - The Force Awakens,7.8,,"December 18, 2015 (United States)","$245,000,000 (estimated)","$936,662,225","$247,966,675","$2,069,521,700"
+25,Chaos Walking,5.8,,"March 5, 2021 (United States)","$125,000,000 (estimated)","$13,287,908","$3,775,350","$26,456,630"
+26,Alien,8.4,,"June 22, 1979 (United States)","$11,000,000 (estimated)","$81,900,459","$3,527,881","$106,285,522"
+27,Rogue One: A Star Wars Story,7.8,,"December 16, 2016 (United States)","$200,000,000 (estimated)","$532,177,324","$155,081,681","$1,056,057,720"
+28,Star Wars: Episode I - The Phantom Menace,6.5,,"May 19, 1999 (United States)","$115,000,000 (estimated)","$474,544,677","$64,820,970","$1,027,082,707"
+29,Arrival,7.9,,,"$47,000,000 (estimated)","$100,546,139","$24,074,047","$203,388,186"
+30,Solo: A Star Wars Story,6.9,,"May 25, 2018 (United States)","$275,000,000 (estimated)","$213,767,512","$84,420,489","$392,924,807"
+31,Man of Steel,7.0,,"June 14, 2013 (United States)","$225,000,000 (estimated)","$291,045,518","$116,619,362","$668,045,518"
+32,Independence Day,7.0,,"July 3, 1996 (United States)","$75,000,000 (estimated)","$306,169,268","$50,228,264","$817,400,891"
+33,Star Wars: Episode V - The Empire Strikes Back,8.7,,"June 20, 1980 (United States)","$18,000,000 (estimated)","$292,753,960","$4,910,483","$538,375,067"
+34,A Quiet Place,7.5,,"April 6, 2018 (United States)","$17,000,000 (estimated)","$188,024,361","$50,203,562","$340,952,971"
+35,Space Jam: A New Legacy,4.4,,"July 15, 2021 (United States)","$150,000,000 (estimated)","$70,528,072","$31,053,362","$162,828,072"
+36,Star Wars: Episode VIII - The Last Jedi,6.9,,"December 15, 2017 (United States)","$317,000,000 (estimated)","$620,181,382","$220,009,584","$1,332,698,830"
+37,Star Wars: Episode II - Attack of the Clones,6.5,,"May 16, 2002 (United States)","$115,000,000 (estimated)","$310,676,740","$80,027,814","$653,779,970"
+38,Sonic the Hedgehog,6.5,,"February 14, 2020 (United States)","$85,000,000 (estimated)","$148,974,665","$58,018,348","$319,715,683"
+39,Justice League,6.1,,"November 17, 2017 (United States)","$300,000,000 (estimated)","$229,024,295","$93,842,239","$657,926,987"
+40,Star Wars: Episode VI - Return of the Jedi,8.3,,"May 25, 1983 (United States)","$32,500,000 (estimated)","$309,306,177","$23,019,618","$475,106,177"
+41,It,7.3,,"September 8, 2017 (United States)","$35,000,000 (estimated)","$328,828,874","$123,403,419","$701,796,444"
+42,Toy Story 4,7.7,,"June 21, 2019 (United States)","$200,000,000 (estimated)","$434,038,008","$120,908,065","$1,073,394,593"
+43,The Thing,8.1,,"June 25, 1982 (United States)","$15,000,000 (estimated)","$19,629,760","$3,107,897","$19,632,053"
+44,Jupiter Ascending,5.3,,"February 6, 2015 (United States)","$176,000,000 (estimated)","$47,387,723","$18,372,372","$183,887,723"
+45,2001: A Space Odyssey,8.3,,"June 24, 1970 (United States)","$12,000,000 (estimated)","$60,405,931","$202,759","$65,802,496"
+46,Star Trek,7.9,,"May 8, 2009 (United States)","$150,000,000 (estimated)","$257,730,019","$75,204,289","$385,680,446"
+47,The Fifth Element,7.7,,"May 9, 1997 (United States)","$93,000,000 (estimated)","$63,820,180","$17,031,345","$263,920,180"
+48,Star Wars: Episode III - Revenge of the Sith,7.5,,"May 19, 2005 (United States)","$113,000,000 (estimated)","$380,270,577","$108,435,841","$868,390,560"
+49,Batman v Superman: Dawn of Justice,6.4,,"March 25, 2016 (United States)","$250,000,000 (estimated)","$330,360,194","$166,007,347","$873,637,528"
+50,Men in Black,7.3,,"July 2, 1997 (United States)","$90,000,000 (estimated)","$250,690,539","$51,068,455","$589,390,539"
+51,Transformers,7.0,,"July 3, 2007 (United States)","$150,000,000 (estimated)","$319,246,193","$70,502,384","$709,709,780"
+52,Mars Attacks!,6.4,,"December 13, 1996 (United States)","$70,000,000 (estimated)","$37,771,017","$9,384,272","$101,371,017"
+53,The Rocky Horror Picture Show,7.4,,"August 31, 1975 (Italy)","$1,200,000 (estimated)","$112,892,319",,"$113,804,859"
+54,Galaxy Quest,7.3,,"December 25, 1999 (United States)","$45,000,000 (estimated)","$71,583,916","$7,012,630","$90,683,916"
+55,Bumblebee,6.7,,,"$135,000,000 (estimated)","$127,195,589","$21,654,047","$467,989,645"
+56,Edge of Tomorrow,7.9,,"June 6, 2014 (United States)","$178,000,000 (estimated)","$100,206,256","$28,760,246","$370,541,256"
+57,Toy Story,8.3,,"November 22, 1995 (United States)","$30,000,000 (estimated)","$223,225,679","$29,140,617","$394,436,586"
+58,Prometheus,7.0,,"June 8, 2012 (United States)","$130,000,000 (estimated)","$126,477,084","$51,050,101","$403,354,469"
+59,Starship Troopers,7.2,,"November 7, 1997 (United States)","$105,000,000 (estimated)","$54,814,377","$22,058,773","$121,214,377"
+60,Oblivion,7.0,,"April 19, 2013 (United States)","$120,000,000 (estimated)","$89,107,235","$37,054,485","$286,168,572"
+61,X-Men: Dark Phoenix,5.7,,"June 7, 2019 (United States)","$200,000,000 (estimated)","$65,845,974","$32,828,348","$252,442,974"
+62,TRON: Legacy,6.8,,"December 17, 2010 (United States)","$170,000,000 (estimated)","$172,062,763","$44,026,211","$400,063,852"
+63,Predator,7.8,,"June 12, 1987 (United States)","$15,000,000 (estimated)","$59,735,548","$12,031,638","$98,268,458"
+64,Annihilation,6.8,,"February 23, 2018 (United States)","$40,000,000 (estimated)","$32,732,301","$11,071,584","$43,070,915"
+65,Superman,7.3,,"December 15, 1978 (United States)","$55,000,000 (estimated)","$134,451,603","$7,465,343","$300,451,603"
+66,Alien: Covenant,6.4,,"May 19, 2017 (United States)","$97,000,000 (estimated)","$74,262,031","$36,160,621","$240,891,763"
+67,Ender's Game,6.6,,"November 1, 2013 (United States)","$110,000,000 (estimated)","$61,737,191","$27,017,351","$125,544,024"
+68,Close Encounters of the Third Kind,7.6,,"December 14, 1977 (United States)","$20,000,000 (estimated)","$135,189,114","$1,767,758","$306,889,114"
+69,Lost in Space,5.2,,"April 3, 1998 (United States)","$80,000,000 (estimated)","$69,117,629","$20,154,919","$136,159,423"
+70,Super 8,7.0,,"June 10, 2011 (United States)","$50,000,000 (estimated)","$127,004,179","$35,451,168","$260,095,986"
+71,Star Trek Into Darkness,7.7,,"May 16, 2013 (United States)","$190,000,000 (estimated)","$228,778,661","$70,165,559","$467,365,246"
+72,Valerian and the City of a Thousand Planets,6.5,,"July 21, 2017 (United States)","$177,200,000 (estimated)","$41,189,488","$17,007,624","$225,973,340"
+73,Spaceballs,7.1,,"June 24, 1987 (United States)","$22,700,000 (estimated)","$38,119,483","$6,613,837","$38,119,483"
+74,Star Trek Beyond,7.0,,"July 22, 2016 (United States)","$185,000,000 (estimated)","$158,848,340","$59,253,211","$343,471,816"
+75,Green Lantern,5.5,,"June 17, 2011 (United States)","$200,000,000 (estimated)","$116,601,172","$53,174,303","$219,851,172"
+76,Cloverfield,7.0,,"January 18, 2008 (United States)","$25,000,000 (estimated)","$80,048,433","$40,058,229","$172,394,180"
+77,Stargate,7.1,,"October 28, 1994 (United States)","$55,000,000 (estimated)","$71,567,262","$16,651,018","$196,567,262"
+78,Godzilla: King of the Monsters,6.0,,"May 31, 2019 (United States)","$170,000,000 (estimated)","$110,500,138","$47,776,293","$386,600,138"
+79,Cocoon,6.7,,"June 21, 1985 (United States)","$17,500,000 (estimated)","$76,113,124","$7,936,427","$85,313,124"
+80,Total Recall,7.5,,"June 1, 1990 (United States)","$65,000,000 (estimated)","$119,412,921","$25,533,700","$261,317,921"
+81,District 9,7.9,,"August 14, 2009 (United States)","$30,000,000 (estimated)","$115,646,235","$37,354,308","$210,888,950"
+82,Indiana Jones and the Kingdom of the Crystal Skull,6.1,,"May 22, 2008 (United States)","$185,000,000 (estimated)","$317,101,119","$100,137,835","$790,653,942"
+83,Contact,7.5,,"July 11, 1997 (United States)","$90,000,000 (estimated)","$100,920,329","$20,584,908","$171,120,329"
+84,Life,6.6,,"March 24, 2017 (United States)","$58,000,000 (estimated)","$30,234,022","$12,501,936","$100,541,806"
+85,Transformers: The Last Knight,5.2,,,"$217,000,000 (estimated)","$130,168,683","$44,680,073","$605,425,157"
+86,10 Cloverfield Lane,7.2,,"March 11, 2016 (United States)","$15,000,000 (estimated)","$72,082,998","$24,727,437","$110,216,998"
+87,Space Jam,6.5,,"November 15, 1996 (United States)","$80,000,000 (estimated)","$90,418,342","$27,528,529","$230,418,342"
+88,Under the Skin,6.4,,"March 14, 2014 (United Kingdom)","$13,300,000 (estimated)","$2,614,251","$133,154","$5,866,389"
+89,Men in Black: International,5.6,,,"$110,000,000 (estimated)","$80,001,807","$30,035,838","$253,890,701"
+90,Monsters vs. Aliens,6.4,,"March 27, 2009 (United States)","$175,000,000 (estimated)","$198,351,526","$59,321,095","$381,509,870"
+91,War of the Worlds,6.5,,"June 29, 2005 (United States)","$132,000,000 (estimated)","$234,280,354","$64,878,725","$603,873,119"
+92,Dark City,7.6,,"February 27, 1998 (United States)","$27,000,000 (estimated)","$14,378,331","$5,576,953","$27,200,316"
+93,The Predator,5.3,,"September 14, 2018 (United States)","$88,000,000 (estimated)","$51,024,708","$24,632,284","$160,542,134"
+94,Life of Brian,8.1,,"August 17, 1979 (United States)","$4,000,000 (estimated)","$20,206,622","$140,034","$20,742,852"
+95,Flash Gordon,6.5,,"December 5, 1980 (United States)","$20,000,000 (estimated)","$27,107,960","$3,934,030","$27,181,317"
+96,The Dead Don't Die,5.5,,"June 14, 2019 (United States)",,"$6,563,605","$2,540,240","$15,325,468"
+97,They Live,7.3,,"November 4, 1988 (United States)","$4,000,000 (estimated)","$13,008,928","$4,827,903","$13,008,928"
+98,Home,6.6,,,"$135,000,000 (estimated)","$177,397,510","$52,107,731","$386,041,607"
+99,Toy Story 3,8.2,,"June 18, 2010 (United States)","$200,000,000 (estimated)","$415,004,880","$110,307,189","$1,066,970,811"
+100,Pacific Rim,6.9,,"July 12, 2013 (United States)","$190,000,000 (estimated)","$101,802,906","$37,285,325","$411,002,906"
+101,Signs,6.7,,"August 2, 2002 (United States)","$72,000,000 (estimated)","$227,966,634","$60,117,080","$408,247,917"
+102,John Carter,6.6,,"March 9, 2012 (United States)","$250,000,000 (estimated)","$73,078,100","$30,180,188","$284,139,100"
+103,The Hitchhiker's Guide to the Galaxy,6.7,,"April 29, 2005 (United States)","$50,000,000 (estimated)","$51,085,416","$21,103,203","$104,478,416"
+104,Battleship,5.8,,"May 18, 2012 (United States)","$209,000,000 (estimated)","$65,422,625","$25,534,825","$303,025,485"
+105,Transformers: Dark of the Moon,6.2,,"June 29, 2011 (United States)","$195,000,000 (estimated)","$352,390,543","$97,852,865","$1,123,794,079"
+106,Barbarella,5.9,,"October 10, 1968 (United States)","$9,000,000 (estimated)",,,
+107,Men in Black 3,6.8,,"May 25, 2012 (United States)","$225,000,000 (estimated)","$179,020,854","$54,592,779","$624,026,776"
+108,Little Shop of Horrors,7.1,,"December 19, 1986 (United States)","$25,000,000 (estimated)","$38,982,260","$3,659,884","$38,983,045"
+109,Black Friday,4.6,,,,,,"$1,581"
+110,Teenage Mutant Ninja Turtles: Out of the Shadows,6.0,,,"$135,000,000 (estimated)","$82,051,601","$35,316,382","$245,623,848"
+111,Independence Day: Resurgence,5.2,,"June 24, 2016 (United States)","$165,000,000 (estimated)","$103,144,286","$41,039,944","$389,681,935"
+112,The Lego Movie,7.7,,,"$60,000,000 (estimated)","$257,760,692","$69,050,279","$468,060,692"
+113,Toy Story 2,7.9,,"November 24, 1999 (United States)","$90,000,000 (estimated)","$245,852,179","$300,163","$497,375,381"
+114,Men in Black II,6.2,,"July 3, 2002 (United States)","$140,000,000 (estimated)","$193,735,288","$52,148,751","$445,135,288"
+115,Stalker,8.1,,"April 17, 1980 (Netherlands)","RUR 6,000,000 (estimated)","$292,049","$11,537","$303,815"
+116,The Day the Earth Stood Still,5.5,,"December 12, 2008 (United States)","$80,000,000 (estimated)","$79,366,978","$30,480,153","$233,093,859"
+117,Cosmic Sin,2.5,,,,,,"$1,037,135"
+118,Alien 3,6.4,,"May 22, 1992 (United States)","$50,000,000 (estimated)","$55,473,545","$19,449,867","$159,814,498"
+119,The Abyss,7.5,,"August 9, 1989 (United States)","$70,000,000 (estimated)","$54,461,047","$9,319,797","$90,000,098"
+120,Fantastic 4: Rise of the Silver Surfer,5.6,,"June 15, 2007 (United States)","$130,000,000 (estimated)","$131,921,738","$58,051,684","$301,913,131"
+121,We Can Be Heroes,4.7,,"December 25, 2020 (United States)",,,,
+122,Pitch Black,7.1,,"February 18, 2000 (United States)","$23,000,000 (estimated)","$39,240,659","$11,577,688","$53,187,659"
+123,Power Rangers,5.9,,"March 24, 2017 (United States)","$100,000,000 (estimated)","$85,364,450","$40,300,288","$142,337,240"
+124,Happy Feet,6.4,,"November 17, 2006 (United States)","$100,000,000 (estimated)","$198,000,317","$41,533,432","$384,336,108"
+125,Transformers: Age of Extinction,5.6,,"June 27, 2014 (United States)","$210,000,000 (estimated)","$245,439,076","$100,038,390","$1,104,054,072"
+126,The Thing,6.2,,"October 14, 2011 (United States)","$38,000,000 (estimated)","$16,928,670","$8,493,665","$31,505,287"
+127,The World's End,7.0,,"August 23, 2013 (United States)","$20,000,000 (estimated)","$26,004,851","$8,811,790","$46,091,271"
+128,Megamind,7.3,,,"$130,000,000 (estimated)","$148,415,853","$46,016,833","$321,885,765"
+129,Lilo & Stitch,7.3,,"June 21, 2002 (United States)","$80,000,000 (estimated)","$145,794,338","$35,260,212","$273,144,151"
+130,Masters of the Universe,5.4,,"August 7, 1987 (United States)","$22,000,000 (estimated)","$17,336,370","$4,883,168","$17,336,370"
+131,Knowing,6.2,,"March 20, 2009 (United States)","$50,000,000 (estimated)","$79,957,634","$24,604,751","$183,658,498"
+132,I Am Number Four,6.1,,"February 18, 2011 (United States)","$60,000,000 (estimated)","$55,100,437","$19,449,893","$149,878,437"
+133,Alien: Resurrection,6.2,,"November 26, 1997 (United States)","$75,000,000 (estimated)","$47,795,658","$16,474,092","$161,376,069"
+134,The Faculty,6.5,,"December 25, 1998 (United States)","$15,000,000 (estimated)","$40,283,321","$11,633,495","$40,283,321"
+135,Species,5.8,,"July 7, 1995 (United States)","$35,000,000 (estimated)","$60,074,103","$17,161,943","$113,374,103"
+136,Riddick,6.4,,"September 6, 2013 (United States)","$38,000,000 (estimated)","$42,025,135","$19,030,375","$98,337,295"
+137,Pixels,5.5,,"July 24, 2015 (United States)","$88,000,000 (estimated)","$78,747,585","$24,011,616","$244,874,809"
+138,Howard the Duck,4.7,,"August 1, 1986 (United States)","$37,000,000 (estimated)","$16,295,774","$5,070,136","$37,962,774"
+139,Scary Movie 3,5.5,,"October 24, 2003 (United States)","$48,000,000 (estimated)","$110,003,217","$49,700,000","$220,673,217"
+140,Transformers: Revenge of the Fallen,6.0,,"June 24, 2009 (United States)","$200,000,000 (estimated)","$402,111,870","$108,966,307","$836,303,693"
+141,Zathura: A Space Adventure,6.2,,"November 11, 2005 (United States)","$65,000,000 (estimated)","$29,258,869","$13,427,872","$65,079,104"
+142,Predators,6.4,,"July 9, 2010 (United States)","$40,000,000 (estimated)","$52,000,688","$24,760,882","$127,233,108"
+143,The Fourth Kind,5.9,,"November 6, 2009 (United States)","$10,000,000 (estimated)","$25,486,040","$12,231,160","$47,719,794"
+144,The Holy Mountain,7.9,,"July 11, 1975 (Mexico)","$750,000 (estimated)","$61,001","$4,143","$104,160"
+145,My Stepmother Is an Alien,5.4,,"December 9, 1988 (United States)","$20,000,000 (estimated)","$13,854,000","$2,066,980","$13,854,000"
+146,Outlander,6.2,,"July 11, 2008 (Latvia)","$50,000,000 (estimated)","$166,003","$59,581","$7,034,698"
+147,Treasure Planet,7.2,,,"$140,000,000 (estimated)","$38,176,783","$12,083,248","$110,041,363"
+148,Paul,7.0,,"March 18, 2011 (United States)","$40,000,000 (estimated)","$37,412,945","$13,043,310","$97,984,015"
+149,The Iron Giant,8.0,,"August 6, 1999 (United States)","$70,000,000 (estimated)","$23,159,305","$5,732,614","$23,180,087"
+150,Brightburn,6.1,,,"$6,000,000 (estimated)","$17,300,439","$7,845,658","$32,893,421"
+151,Lifeforce,6.2,,"June 21, 1985 (United States)","$25,000,000 (estimated)","$11,603,545","$4,209,136","$11,603,545"
+152,Flight of the Navigator,6.9,,"August 1, 1986 (United States)","$9,000,000 (estimated)","$18,564,613","$3,115,097","$18,564,613"
+153,Slither,6.5,,"March 31, 2006 (United States)","$15,000,000 (estimated)","$7,802,450","$3,880,270","$12,834,936"
+154,"Dude, Where's My Car?",5.5,,,"$13,000,000 (estimated)","$46,729,800","$13,845,914","$73,180,723"
+155,Color Out of Space,6.2,,,"$6,000,000 (estimated)","$765,561","$216,162","$1,023,510"
+156,The 5th Wave,5.2,,,"$38,000,000 (estimated)","$34,916,787","$10,326,356","$109,906,372"
+157,The Day the Earth Stood Still,7.7,,"September 20, 1951 (United States)","$1,200,000 (estimated)",,,
+158,The Last Starfighter,6.8,,"July 13, 1984 (United States)","$15,000,000 (estimated)","$28,733,290","$6,011,695","$28,733,290"
+159,The Flintstones in Viva Rock Vegas,3.7,,,"$83,000,000 (estimated)","$35,268,275","$10,518,435","$59,468,275"
+160,Solaris,8.0,,"September 26, 1972 (Czechoslovakia)","RUR 1,000,000 (estimated)","$22,168","$11,537","$135,289"
+161,Psycho Goreman,6.3,,"September 10, 2020 (Brazil)","CA$1,500,000 (estimated)","$95,182","$40,366","$95,384"
+162,Dragonball Evolution,2.5,,"April 10, 2009 (United States)","$30,000,000 (estimated)","$9,362,785","$4,756,488","$55,720,772"
+163,Invasion of the Body Snatchers,7.4,,"December 22, 1978 (United States)","$3,500,000 (estimated)","$24,946,533","$1,298,129","$24,946,533"
+164,Star Trek II: The Wrath of Khan,7.7,,"June 4, 1982 (United States)","$11,200,000 (estimated)","$78,912,963","$14,347,221","$78,912,963"
+165,Battlefield Earth,2.5,,"May 12, 2000 (United States)","$73,000,000 (estimated)","$21,471,685","$11,548,898","$29,725,663"
+166,Superman II,6.8,,"June 19, 1981 (United States)","$54,000,000 (estimated)","$108,185,706","$14,100,523","$108,185,706"
+167,The Darkest Hour,4.9,,,"$30,000,000 (estimated)","$21,443,494","$2,993,519","$64,626,786"
+168,The Invasion,5.9,,"August 17, 2007 (United States)","$80,000,000 (estimated)","$15,074,191","$5,951,409","$40,170,558"
+169,Cowboys & Aliens,6.0,,"July 29, 2011 (United States)","$163,000,000 (estimated)","$100,240,551","$36,431,290","$174,822,325"
+170,Alien vs. Predator,5.6,,"August 13, 2004 (United States)","$60,000,000 (estimated)","$80,282,231","$38,291,056","$177,427,090"
+171,The X Files,7.0,,"June 19, 1998 (United States)","$66,000,000 (estimated)","$83,898,313","$30,138,758","$189,176,423"
+172,Across the Universe,7.3,,"October 12, 2007 (United States)","$45,000,000 (estimated)","$24,602,291","$667,784","$29,625,761"
+173,Star Trek: The Motion Picture,6.4,,"December 8, 1979 (United States)","$35,000,000 (estimated)","$82,604,699","$11,926,421","$82,604,699"
+174,Race to Witch Mountain,5.7,,"March 13, 2009 (United States)","$65,000,000 (estimated)","$67,172,594","$24,402,214","$106,387,141"
+175,Predator 2,6.3,,"November 21, 1990 (United States)","$35,000,000 (estimated)","$30,669,413","$8,784,943","$57,120,318"
+176,The Lego Movie 2: The Second Part,6.6,,,"$99,000,000 (estimated)","$105,806,508","$34,115,335","$192,306,508"
+177,The Adventures of Buckaroo Banzai Across the 8th Dimension,6.4,,"October 5, 1984 (Canada)",,"$6,254,148","$620,279","$6,254,148"
+178,Doom,5.2,,"October 21, 2005 (United States)","$60,000,000 (estimated)","$28,212,337","$15,488,870","$58,072,119"
+179,Pacific Rim: Uprising,5.6,,,"$150,000,000 (estimated)","$59,874,525","$28,116,535","$290,930,148"
+180,Heavy Metal,6.7,,"August 7, 1981 (United States)","$9,300,000 (estimated)","$546,545","$204,660","$546,545"
+181,Prey,,,,,,,
+182,The Space Between Us,6.4,,,"$30,000,000 (estimated)","$7,885,294","$3,775,596","$16,080,475"
+183,Occupation: Rainfall,5.5,,,,,,"$343,414"
+184,Evolution,6.1,,"June 8, 2001 (United States)","$80,000,000 (estimated)","$38,345,494","$13,408,351","$98,376,292"
+185,Pandorum,6.7,,"September 25, 2009 (United States)","$33,000,000 (estimated)","$10,330,853","$4,424,126","$20,648,328"
+186,Star Trek VI: The Undiscovered Country,7.2,,"December 6, 1991 (United States)","$30,000,000 (estimated)","$74,888,996","$18,162,837","$96,888,996"
+187,After Earth,4.8,,,"$130,000,000 (estimated)","$60,522,097","$27,520,040","$243,611,982"
+188,Krull,6.1,,"July 29, 1983 (United States)","$47,000,000 (estimated)","$16,916,617","$5,469,415","$16,916,617"
+189,The Vast of Night,6.7,,,,,,
+190,Coneheads,5.4,,,"$33,000,000 (estimated)","$21,274,717","$7,100,501","$21,274,717"
+191,V/H/S,5.8,,,,"$100,345","$36,402","$1,944,287"
+192,Dark Skies,6.3,,"February 22, 2013 (United States)","$3,500,000 (estimated)","$17,418,667","$8,189,166","$27,858,103"
+193,Jiu Jitsu,2.9,,,,,,"$99,924"
+194,The Host,5.9,,,"$40,000,000 (estimated)","$26,627,201","$10,600,112","$63,365,859"
+195,Star Trek IV: The Voyage Home,7.3,,"November 26, 1986 (United States)","$25,000,000 (estimated)","$109,713,132","$16,881,888","$109,713,132"
+196,Supergirl,4.4,,"November 21, 1984 (United States)","$35,000,000 (estimated)","$14,296,438","$5,738,249","$14,296,438"
+197,Star Trek: First Contact,7.6,,"November 22, 1996 (United States)","$45,000,000 (estimated)","$92,027,888","$30,716,131","$146,027,888"
+198,PK,8.1,,,,"$10,616,104","$3,565,258","$100,370,104"
+199,Naked Lunch,7.0,,,"$16,000,000 (estimated)","$2,641,357","$64,491","$2,641,357"
+200,Star Trek: Nemesis,6.4,,"December 13, 2002 (United States)","$60,000,000 (estimated)","$43,254,409","$18,513,305","$67,336,470"
+201,The Wraith,6.0,,,"$2,700,000 (estimated)","$3,500,000","$1,402,535","$3,500,000"
+202,Mighty Morphin Power Rangers: The Movie,5.2,,,"$20,000,000 (estimated)","$38,187,431","$13,104,788","$66,433,194"
+203,Skylines,4.7,,,,,,"$170,581"
+204,Captive State,6.0,,"March 15, 2019 (United States)","$25,000,000 (estimated)","$5,958,315","$3,131,525","$8,808,611"
+205,Earth Girls Are Easy,5.4,,,"$10,000,000 (estimated)","$3,916,303","$892,742","$3,916,303"
+206,Repo Man,6.9,,,"$1,500,000 (estimated)","$129,000","$95,300","$129,000"
+207,Attack the Block,6.7,,"May 13, 2011 (United Kingdom)","$13,000,000 (estimated)","$1,024,175","$139,506","$6,206,022"
+208,Beyond White Space,4.5,,,,,,
+209,A Quiet Place Part III,,,,,,,
+210,Dreamcatcher,5.5,,"March 21, 2003 (United States)","$68,000,000 (estimated)","$33,715,436","$15,027,423","$81,240,406"
+211,Critters,6.1,,"April 11, 1986 (United States)","$2,000,000 (estimated)","$13,167,232","$1,618,800","$13,167,232"
+212,Aliens vs. Predator: Requiem,4.6,,"December 25, 2007 (United States)","$40,000,000 (estimated)","$41,797,066","$10,059,425","$130,290,885"
+213,From Beyond,6.7,,"October 24, 1986 (United States)","$4,500,000 (estimated)","$1,261,000","$514,417","$1,261,000"
+214,Explorers,6.5,,"July 12, 1985 (United States)","$25,000,000 (estimated)","$9,873,044","$3,607,340","$9,873,044"
+215,The Signal,6.1,,"July 10, 2014 (Germany)","$4,000,000 (estimated)","$600,896","$155,642","$2,595,622"
+216,Star Trek: Insurrection,6.4,,"December 11, 1998 (United States)","$58,000,000 (estimated)","$70,187,658","$22,052,836","$112,587,658"
+217,Killer Klowns from Outer Space,6.2,,"May 27, 1988 (United States)","$2,000,000 (estimated)",,,
+218,Skyline,4.4,,"November 12, 2010 (United States)","$10,000,000 (estimated)","$21,393,620","$11,692,415","$66,984,887"
+219,*batteries not included,6.7,,"December 18, 1987 (United States)","$25,000,000 (estimated)","$32,945,797","$3,326,530","$65,088,797"
+220,Enemy Mine,6.9,,"December 20, 1985 (United States)","$40,000,000 (estimated)","$12,303,411","$1,594,702","$12,303,411"
+221,The Blob,6.6,,,"$19,000,000 (estimated)","$8,247,943","$2,644,920","$8,247,943"
+222,This Island Earth,5.9,,,"$800,000 (estimated)",,,
+223,Highlander II: The Quickening,4.2,,"November 1, 1991 (United States)","$30,000,000 (estimated)","$15,556,340","$5,280,490","$15,556,340"
+224,Fire in the Sky,6.5,,,"$15,000,000 (estimated)","$19,885,552","$6,116,484","$19,885,552"
+225,Invasion,5.7,,,"RUR 650,000,000 (estimated)",,,"$16,653,687"
+226,Mysterious Skin,7.6,,,,"$713,240","$17,425","$1,532,932"
+227,Sputnik,6.4,,,,"$18,853","$11,024","$354,023"
+228,The War of the Worlds,7.1,,"August 26, 1953 (United States)","$2,000,000 (estimated)",,,
+229,Beyond Skyline,5.3,,"December 15, 2017 (United States)","$14,000,000 (estimated)",,,"$992,181"
+230,Midnight Special,6.6,,,"$18,000,000 (estimated)","$3,712,282","$190,012","$6,740,647"
+231,Mac and Me,3.4,,,"$13,000,000 (estimated)","$6,424,112","$2,061,464","$6,424,112"
+232,Absolutely Anything,6.0,,"May 12, 2017 (United States)",,"$20,169",,"$6,303,792"
+233,The Watch,5.7,,"July 27, 2012 (United States)","$68,000,000 (estimated)","$35,353,000","$12,750,297","$68,267,862"
+234,Daleks' Invasion Earth 2150 A.D.,6.0,,,"£286,000 (estimated)",,,
+235,The Andromeda Strain,7.2,,"March 12, 1971 (United States)","$6,500,000 (estimated)",,,
+236,Blue Beetle,,,,,,,
+237,The Untamed,6.1,,,,"$27,593","$2,718","$61,249"
+238,Starman,7.0,,"December 14, 1984 (United States)","$22,000,000 (estimated)","$28,744,356","$2,872,022","$28,744,356"
+239,Attraction,5.6,,,"RUR 350,000,000 (estimated)",,,"$19,454,845"
+240,Monsters,6.4,,"December 3, 2010 (United Kingdom)","$500,000 (estimated)","$237,301","$20,508","$5,060,438"
+241,The Thing from Another World,7.1,,"April 7, 1951 (United States)","$1,600,000 (estimated)",,,
+242,Phantasm,6.7,,"March 28, 1979 (United States)","$300,000 (estimated)","$11,988,469",,"$11,988,469"
+243,The Man Who Fell to Earth,6.7,,,"$1,500,000 (estimated)","$100,072","$5,922","$163,230"
+244,K-PAX,7.4,,"October 26, 2001 (United States)","$68,000,000 (estimated)","$50,338,485","$17,215,275","$65,001,485"
+245,Heavy Metal 2000,5.4,,,"$15,000,000 (estimated)",,,
+246,Rim of the World,5.2,,"May 24, 2019 (United States)",,,,
+247,Bad Taste,6.5,,"June 21, 1989 (United States)","NZ$200,000 (estimated)",,,
+248,UHF,7.0,,"July 21, 1989 (United States)","$5,000,000 (estimated)","$6,157,157","$2,251,831","$6,157,157"
+249,SLC Punk!,7.4,,"April 16, 1999 (United States)",,"$299,569","$36,218","$299,569"
+250,Spice World,3.6,,"January 23, 1998 (United States)","$25,000,000 (estimated)","$29,342,592","$10,527,222","$29,342,592"
+251,The Arrival,6.2,,,"$25,000,000 (estimated)","$14,063,331","$4,806,763","$14,063,331"
+252,Cocoon: The Return,5.4,,,"$17,500,000 (estimated)","$18,924,919","$5,568,143","$25,024,919"
+253,Flesh Gordon,4.8,,,"$700,000 (estimated)",,,
+254,Virus,5.0,,"January 15, 1999 (United States)","$75,000,000 (estimated)","$14,036,005","$6,013,640","$30,657,854"
+255,How to Talk to Girls at Parties,5.7,,,,"$84,809","$12,674","$385,733"
+256,Battle Beyond the Stars,5.5,,"September 8, 1980 (United States)","$2,000,000 (estimated)",,,
+257,Creature,4.4,,"March 19, 1986 (France)","$750,000 (estimated)",,,
+258,Star Wars: The Clone Wars,6.0,,"August 15, 2008 (United States)","$8,500,000 (estimated)","$35,161,554","$14,611,273","$68,282,844"
+259,Honeymoon,5.7,,,"$1,000,000 (estimated)","$9,318","$4,131","$24,343"
+260,Ghosts of Mars,4.9,,,"$28,000,000 (estimated)","$8,709,640","$3,804,452","$14,010,832"
+261,What Lies Below,4.3,,"December 4, 2020 (United States)",,,,"$21,676"
+262,Freaks of Nature,5.9,,,,"$70,958","$42,713","$70,958"
+263,Species II,4.4,,"April 10, 1998 (United States)",,"$19,221,939","$7,274,008","$19,221,939"
+264,Battle Los Angeles,5.7,,"March 11, 2011 (United States)","$70,000,000 (estimated)","$83,552,429","$35,573,187","$211,819,354"
+265,The Transformers: The Movie,7.3,,"August 8, 1986 (United States)","$6,000,000 (estimated)","$5,849,647","$1,779,559","$5,860,601"
+266,Escape to Witch Mountain,6.4,,"March 21, 1975 (United States)",,"$20,000,000",,"$20,000,000"
+267,Invasion of the Body Snatchers,7.7,,"February 5, 1956 (United States)","$417,000 (estimated)",,,"$1,861"
+268,Mission to Mars,5.7,,"March 10, 2000 (United States)","$100,000,000 (estimated)","$60,883,407","$22,855,247","$110,983,407"
+269,Sphere,6.1,,"February 13, 1998 (United States)","$80,000,000 (estimated)","$37,020,277","$14,433,957","$37,020,277"
+270,Occupation,4.7,,,,,,"$21,704"
+271,Europa Report,6.4,,,,"$125,687","$22,243","$125,687"
+272,V/H/S/2,6.0,,"June 6, 2013 (United States)",,"$21,833","$9,932","$805,574"
+273,The Box,5.6,,"November 6, 2009 (United States)","$30,000,000 (estimated)","$15,051,977","$7,571,417","$33,334,176"
+274,Village of the Damned,5.7,,"April 28, 1995 (United States)","$22,000,000 (estimated)","$9,418,365","$3,222,450","$9,418,365"
+275,Plan 9 from Outer Space,4.0,,"July 22, 1959 (United States)","$60,000 (estimated)",,,
+276,Jimmy Neutron: Boy Genius,6.0,,"December 21, 2001 (United States)","$30,000,000 (estimated)","$80,936,232","$13,832,786","$102,992,536"
+277,Doors,3.4,,"March 23, 2021 (United States)",,,,
+278,Galaxy of Terror,5.1,,,"$700,000 (estimated)",,,
+279,G.O.R.A.,8.0,,,"$5,000,000 (estimated)",,,"$20,839,049"
+280,Bowfinger,6.4,,,"$55,000,000 (estimated)","$66,384,775","$18,062,550","$98,625,775"
+281,Critters 3,4.5,,,,,,
+282,Dragon Ball Super: Broly,7.8,,,"$8,500,000 (estimated)","$30,712,119","$9,816,197","$115,757,940"
+283,A Shaun the Sheep Movie: Farmageddon,6.8,,"February 14, 2020 (United States)",,,,"$43,100,248"
+284,Invaders from Mars,5.6,,"June 6, 1986 (United States)","$12,000,000 (estimated)","$4,884,663","$2,046,576","$4,884,663"
+285,The Forgotten,5.8,,"September 24, 2004 (United States)","$42,000,000 (estimated)","$67,133,509","$21,022,111","$117,592,831"
+286,The Osiris Child,5.6,,,,,,"$135,532"
+287,The Ice Pirates,5.7,,,"$9,000,000 (estimated)","$14,255,801","$4,358,022","$14,255,801"
+288,Night of the Creeps,6.8,,"August 22, 1986 (United States)","$5,000,000 (estimated)","$591,366","$220,800","$591,366"
+289,Nowhere,6.5,,,,"$194,201","$27,354","$194,201"
+290,Dark Star,6.3,,"February 9, 1979 (West Germany)","$60,000 (estimated)",,,
+291,The Blob,6.4,,"September 10, 1958 (United States)","$240,000 (estimated)",,,
+292,Apollo 18,5.2,,"September 2, 2011 (United States)","$5,000,000 (estimated)","$17,687,709","$8,704,271","$26,236,153"
+293,Planet 51,6.0,,,"$70,000,000 (estimated)","$42,194,060","$12,286,129","$105,647,102"
+294,Area 51,4.3,,,"$5,000,000 (estimated)","$7,556","$7,556","$7,556"
+295,Gor,3.5,,,,"$159,731",,"$159,731"
+296,Aliens in the Attic,5.4,,"July 31, 2009 (United States)","$45,000,000 (estimated)","$25,200,412","$8,008,423","$57,881,056"
+297,Cheech and Chong's Next Movie,6.1,,"July 18, 1980 (United States)",,"$41,675,194","$5,262,963","$41,675,194"
+298,On the Silver Globe,7.3,,"February 10, 1989 (Poland)",,,,
+299,Dark Angel,6.1,,"September 28, 1990 (United States)","$7,000,000 (estimated)","$4,348,368","$1,912,421","$4,348,368"
+300,Archenemy,5.0,,,,"$121,642","$53,678","$136,240"
+301,Save Yourselves!,5.7,,,,"$301,162","$142,694","$301,162"
+302,Teen Titans GO! To the Movies,6.8,,,"$10,000,000 (estimated)","$29,790,236","$10,411,189","$52,090,236"
+303,Xtro,5.6,,,,,,
+304,Meet Dave,5.0,,"July 11, 2008 (United States)","$60,000,000 (estimated)","$11,803,254","$5,251,918","$51,339,567"
+305,All the Creatures Were Stirring,5.0,,,,,,
+306,The Hidden,7.0,,"October 30, 1987 (United States)","$5,000,000 (estimated)","$9,747,988","$2,492,618","$9,747,988"
+307,Rendezvous with Rama,,,United States,,,,
+308,Forbidden World,5.2,,"May 7, 1982 (United States)","$1,000,000 (estimated)",,,
+309,Robot Overlords,4.6,,,"$21,000,000 (estimated)",,,"$943,502"
+310,Fried Barry,5.7,,,,,,
+311,The Astronaut's Wife,5.4,,,"$75,000,000 (estimated)","$10,672,566","$4,027,003","$19,598,588"
+312,The Guyver,5.0,,"June 3, 1992 (France)",,,,
+313,Suburban Commando,4.5,,"October 4, 1991 (United States)",,"$6,948,859","$1,947,744","$6,948,859"
+314,Body Snatchers,6.0,,,"$13,000,000 (estimated)","$428,868","$31,494","$428,868"
+315,Stardust Memories,7.3,,,"$10,000,000 (estimated)","$10,389,003","$326,779","$10,389,003"
+316,Slaughterhouse-Five,6.9,,,"$3,200,000 (estimated)",,,
+317,The Watcher in the Woods,6.3,,"October 9, 1981 (United States)",,"$5,000,000",,"$5,000,000"
+318,Superman II: The Richard Donner Cut,7.6,,"November 28, 2006 (United States)","$54,000,000 (estimated)",,,
+319,Omicron,7.0,,,,,,
+320,Starship Troopers: Traitor of Mars,5.5,,,,,,
+321,Alone in the Dark,2.4,,,"$20,000,000 (estimated)","$5,178,569","$2,834,421","$12,693,645"
+322,Lilo & Stitch,,,,,,,
+323,Horrorplanet,4.0,,November 1982 (United States),"$2,000,000 (estimated)",,,
+324,Alien Conquest,2.9,,,,,,
+325,Evangelion: 1.0 You Are (Not) Alone,7.7,,"September 1, 2007 (Japan)",,"$107,797","$1,579","$16,444,137"
+326,Alien Nation,6.3,,"October 7, 1988 (United States)","$16,000,000 (estimated)","$25,216,243","$8,421,429","$32,155,047"
+327,Untitled Alien Prequel,,,,,,,
+328,The Angry Red Planet,5.3,,,"$190,000 (estimated)",,,
+329,Dr. Who and the Daleks,5.7,,July 1966 (United States),"£180,000 (estimated)",,,
+330,Mars Needs Moms,5.4,,,"$150,000,000 (estimated)","$21,392,758","$6,914,488","$39,233,678"
+331,Necronomicon: Book of Dead,5.8,,"July 29, 1994 (United Kingdom)","$4,000,000 (estimated)",,,
+332,Beach Babes from Beyond,3.8,,,"$300,000 (estimated)",,,
+333,Return from Witch Mountain,5.9,,"March 10, 1978 (United States)",,"$16,393,000",,"$16,393,000"
+334,Horror Express,6.6,,"January 3, 1974 (West Germany)","$300,000 (estimated)",,,
+335,Attack of the Killer Tomatoes!,4.7,,,"$90,000 (estimated)",,,
+336,Revolt,5.3,,,"$4,000,000 (estimated)",,,"$24,416"
+337,Critters 2,5.5,,,"$4,500,000 (estimated)","$3,813,293","$1,898,751","$3,813,293"
+338,Bob Lazar: Area 51 & Flying Saucers,5.6,,,,,,
+339,The History of Future Folk,7.1,,,,"$17,646","$5,775","$17,646"
+340,The Day Mars Invaded Earth,4.9,,December 1962 (United States),,,,
+341,Skinwalker Ranch,5.1,,,,,,"$189,380"
+342,My Favorite Martian,5.1,,,"$65,000,000 (estimated)","$36,850,101","$8,828,586","$36,850,101"
+343,All Hallows' Eve,5.1,,,"$500,000 (estimated)",,,
+344,The Recall,4.2,,,,"$22,943","$6,570","$112,357"
+345,Muppets from Space,6.3,,,"$24,000,000 (estimated)","$16,625,807","$4,826,049","$22,323,612"
+346,Escape from Planet Earth,5.9,,,"$40,000,000 (estimated)","$57,012,977","$15,891,055","$74,939,189"
+347,Village of the Damned,7.3,,"December 7, 1960 (United States)","$200,000 (estimated)",,,
+348,Breeders,3.8,,,,,,
+349,Godzilla vs. Mechagodzilla,6.4,,March 1977 (United States),,,,"$2,873,268"
+350,Distant,,,,,,,
+351,The Cat from Outer Space,6.1,,,"$4,000,000 (estimated)",,,
+352,Evils of the Night,3.7,,,"$190,000 (estimated)",,,
+353,The Answer,4.2,,,,,,
+354,The Last Mimzy,6.2,,"March 23, 2007 (United States)",,"$21,471,047","$10,200,000","$27,308,918"
+355,Invaders from Mars,6.4,,"April 22, 1953 (United States)","$290,000 (estimated)",,,
+356,Attack of the 50 Foot Woman,5.1,,"May 18, 1958 (United States)","$88,000 (estimated)",,,
+357,Devil's Gate,5.1,,,,,,"$52,966"
+358,Mom and Dad Save the World,5.4,,"July 24, 1992 (United States)","$14,000,000 (estimated)","$2,034,470","$984,627","$2,034,470"
+359,The Visitor,5.1,,,"$800,000 (estimated)",,,
+360,Detention,5.7,,,"$10,000,000 (estimated)",,,
+361,Communion,5.6,,,"$5,000,000 (estimated)","$1,919,653","$822,123","$1,919,653"
+362,Pajama Party,5.0,,,"$200,000 (estimated)",,,
+363,UFO,6.2,,,,,,
+364,Tales of Halloween,5.5,,,,,,"$416,792"
+365,Cargo,6.1,,"September 13, 2013 (South Korea)","CHF 4,500,000 (estimated)",,,
+366,Creatures,2.7,,,,,,
+367,Phineas and Ferb the Movie: Candace Against the Universe,7.1,,,,,,"$5,689,121"
+368,Assimilate,5.3,,,,,,
+369,Killer Tongue,4.7,,,"$4,000,000 (estimated)",,,
+370,Shanghai Fortress,4.3,,,"$64,000,000 (estimated)",,,"$16,923,671"
+371,Voyage to the Planet of Prehistoric Women,2.9,,,,,,
+372,Strange Invaders,5.5,,,,"$1,362,303","$655,461","$1,362,303"
+373,Battle Beyond the Sun,4.5,,,,,,
+374,Invasion of Astro-Monster,6.3,,"July 29, 1970 (United States)",,,,
+375,First Signal,6.9,,,,$880,$565,$880
+376,Going Clear: Scientology & the Prison of Belief,8.0,,,,,,"$230,194"
+377,Monsters: Dark Continent,4.3,,,,,,"$306,004"
+378,Phantasm II,6.5,,"July 8, 1988 (United States)","$3,000,000 (estimated)","$7,282,851","$3,012,285","$7,282,851"
+379,Dark Encounter,5.3,,,,,,"$4,672"
+380,Earth vs. the Flying Saucers,6.4,,July 1956 (United States),,,,
+381,Impostor,6.2,,"January 4, 2002 (United States)","$30,000,000 (estimated)","$6,285,176","$3,022,523","$8,694,320"
+382,Liquid Sky,6.1,,,"$500,000 (estimated)",,,
+383,Decoys,4.6,,,"$5,000,000 (estimated)","$84,733","$84,733","$84,733"
+384,Agent Revelation,5.3,,,,,,
+385,Bloodbath at the House of Death,5.1,,,"£1,998,987 (estimated)",,,
+386,The Thing Returns,7.7,,,"€40,000 (estimated)",,,
+387,Shorts,4.7,,"August 21, 2009 (United States)","$40,000,000 (estimated)","$20,919,166","$6,410,339","$28,972,508"
+388,Flash Gordon,7.0,,,"$360,000 (estimated)",,,
+389,Earth to Echo,5.8,,,"$13,000,000 (estimated)","$38,934,842","$8,364,658","$45,681,062"
+390,Robinson Crusoe on Mars,6.5,,June 1964 (United States),"$1,200,000 (estimated)",,,
+391,The Giant Spider Invasion,3.1,,,"$300,000 (estimated)","$293,053",,"$293,053"
+392,Femalien,5.0,,,,,,
+393,TerrorVision,5.7,,,,"$320,256","$320,256","$320,256"
+394,Alien Warfare,2.6,,,,,,
+395,Extraterrestrial,5.0,,,"$3,000,000 (estimated)",,,"$71,103"
+396,The Love Factor,4.0,,,,,,
+397,Destroy All Monsters,6.5,,"May 23, 1969 (United States)","¥200,000,000 (estimated)",,,
+398,Unacknowledged,7.0,,,,,,
+399,Contamination,5.2,,"June 11, 1982 (United States)",,,,
+400,Radioflash,4.9,,,,,,
+401,Alienator,3.2,,,,,,
+402,Beware! The Blob,4.1,,"June 21, 1972 (United States)","$150,000 (estimated)",,,
+403,Abduction,4.8,,,"CN¥40,000,000 (estimated)",,,
+404,Hunt for the Skinwalker,4.5,,,,,,
+405,It Came from Outer Space,6.5,,"June 5, 1953 (United States)","$800,000 (estimated)",,,
+406,Turbo: A Power Rangers Movie,3.7,,,"$8,000,000 (estimated)","$8,363,899","$3,301,135","$9,615,840"
+407,The Disappearance of Haruhi Suzumiya,8.1,,,,,,"$7,701,498"
+408,Starship Troopers: Invasion,5.8,,,,,,"$193,425"
+409,Without Warning,5.1,,"November 26, 1980 (France)","$150,000 (estimated)",,,
+410,Purple People Eater,4.7,,,,,,
+411,Tekkonkinkreet,7.6,,"December 23, 2006 (Japan)","$4,200,000 (estimated)","$6,000","$6,000","$42,840"
+412,Not of This Earth,4.9,,,"$210,000 (estimated)",,,
+413,Harbinger Down,4.6,,"August 7, 2015 (United States)",,,,"$61,036"
+414,First Men in the Moon,6.6,,,,"$1,650,000",,
+415,Attack of the Unknown,4.6,,,,,,
+416,Kaena: The Prophecy,6.0,,,,"$8,593","$2,173","$465,618"
+417,Beyond the Sky,5.2,,,"$1,500,000 (estimated)",,,"$19,761"
+418,Hobgoblins,2.3,,"July 14, 1988 (United States)","$15,000 (estimated)",,,
+419,Space Chimps,4.5,,"July 18, 2008 (United States)","$37,000,000 (estimated)","$30,105,968","$7,181,374","$65,097,693"
+420,A Home at the End of the World,6.7,,,"$6,500,000 (estimated)","$1,029,872","$64,728","$1,644,653"
+421,The Puppet Masters,5.9,,"October 21, 1994 (United States)",,"$8,647,042","$4,069,057","$8,647,042"
+422,Terror of Mechagodzilla,6.2,,March 1977 (United States),,,,
+423,Wing Commander,4.3,,,"$30,000,000 (estimated)","$11,578,059","$5,114,365","$11,578,059"
+424,What Planet Are You From?,5.6,,,"$60,000,000 (estimated)","$6,291,602","$3,008,746","$14,145,677"
+425,A.R.O.G,7.4,,,"$8,500,000 (estimated)",,,"$22,212,369"
+426,Galaxina,3.7,,,,,,
+427,Dead Space,3.4,,,,,,
+428,20 Million Miles to Earth,6.4,,,,,,
+429,Laserblast,2.7,,,,,,
+430,Vicious Lips,4.6,,,,,,
+431,Space Girls in Beverly Hills,3.6,,,,,,
+432,The Stupids,4.3,,"August 30, 1996 (United States)","$25,000,000 (estimated)","$2,491,989","$1,593,929","$2,491,989"
+433,Storage 24,4.5,,,,$72,$72,"$646,175"
+434,Koi... Mil Gaya,7.1,,,"₹350,000,000 (estimated)","$671,372","$274,851","$12,168,232"
+435,Parasite,4.0,,,"$800,000 (estimated)",,,"$2,270"
+436,The Dustwalker,3.7,,"November 22, 2019 (Japan)",,,,
+437,Little Flames,5.8,,,,,,
+438,CJ7,6.4,,"January 30, 2008 (China)",,"$207,378","$49,770","$49,529,913"
+439,Rise of the Teenage Mutant Ninja Turtles: The Movie,,,,,,,
+440,2001: A Space Travesty,3.5,,,"$45,000,000 (estimated)",,,"$270,813"
+441,Godzilla 2000: Millennium,6.1,,"August 18, 2000 (United States)","$13,000,000 (estimated)","$10,037,390","$4,407,720","$12,924,063"
+442,Target Earth,5.6,,,"$85,000 (estimated)",,,
+443,Gantz,6.4,,,"$22,000,000 (estimated)",,,"$40,568,961"
+444,Parasyte: Part 1,6.8,,,,,,"$9,649,013"
+445,Infini,5.4,,,"$800,000 (estimated)",,,
+446,Halo,,,United States,,,,
+447,Ansatsu kyôshitsu,6.1,,,,,,"$25,000,000"
+448,Star Kid,5.3,,"January 16, 1998 (United States)","$12,000,000 (estimated)","$7,029,025","$2,958,768","$7,029,025"
+449,The Crawling Eye,5.2,,,,,,
+450,Le gendarme et les extra-terrestres,6.3,,,,,,
+451,The Cabbage Soup,6.5,,,,,,
+452,Good Boy,5.1,,,"$18,000,000 (estimated)","$37,667,746","$13,107,022","$45,490,616"
+453,The Brain,5.2,,,,,,
+454,Creepozoids,4.0,,,"$75,000 (estimated)",,,
+455,Alien Abduction,4.9,,,,"$12,897","$10,514","$82,725"
+456,Religulous,7.6,,"October 3, 2008 (United States)","$2,500,000 (estimated)","$13,011,160","$3,409,643","$13,639,115"
+457,Planet of the Vampires,6.3,,"October 27, 1965 (United States)","$200,000 (estimated)",,,
+458,Danny Deckchair,6.7,,,,"$160,276","$10,304","$805,894"
+459,Nukie,1.9,,,,,,
+460,Voyage of the Rock Aliens,5.0,,,,,,
+461,Big Ass Spider!,5.3,,"October 10, 2014 (Spain)",,,,
+462,God Told Me To,6.3,,,"$300,000 (estimated)",,,
+463,Waxwork II: Lost in Time,5.5,,,"$3,500,000 (estimated)",,,
+464,Jetsons: The Movie,5.6,,,,"$20,305,841","$5,029,640","$20,305,841"
+465,Spaced Invaders,5.4,,,"$3,000,000 (estimated)","$15,369,573","$4,474,336","$15,369,573"
+466,Prey,5.2,,,,,,
+467,One-Eyed Monster,4.2,,,,,,
+468,Phantasm III: Lord of the Dead,6.1,,"December 8, 1994 (Argentina)","$2,500,000 (estimated)",,,
+469,Alien Trespass,5.7,,January 2009 (United States),,"$104,526","$43,437","$104,526"
+470,"Ghidorah, the Three-Headed Monster",6.6,,"September 13, 1965 (United States)",,,,
+471,Critters 4,4.1,,,,,,
+472,Moontrap,4.9,,,,,,
+473,The Incredible Melting Man,4.2,,,"$250,000 (estimated)",,,
+474,The Deadly Spawn,6.0,,,"$25,000 (estimated)",,,
+475,Alien Invasion: S.U.M.1,4.2,,,"$1,000,000 (estimated)",,,
+476,It Conquered the World,5.0,,,,,,
+477,The Quatermass Xperiment,6.7,,,"£45,000 (estimated)",,,
+478,Meatballs Part II,3.7,,"July 27, 1984 (United States)",,"$5,410,972","$2,515,268","$5,410,972"
+479,"Dragon Ball Z: Resurrection ""F""",7.3,,"August 4, 2015 (United States)","$5,000,000 (estimated)","$8,008,363","$1,817,937","$61,768,190"
+480,Children of the Damned,6.2,,"January 29, 1964 (United States)",,"$1,000,000",,
+481,The Brother from Another Planet,6.8,,,"$350,000 (estimated)","$3,677,209",,"$3,677,209"
+482,Les maîtres du temps,7.4,,,,,,
+483,Hangar 18,5.4,,,"$11,000,000 (estimated)",,,
+484,Devil Girl from Mars,5.0,,,,,,
+485,Teenagers from Outer Space,3.8,,,,,,
+486,Godzilla: Planet of the Monsters,6.0,,,,,,"$3,285,291"
+487,Invasion of the Saucer Men,5.4,,,,,,
+488,Deep Space,4.5,,,"$1,750,000 (estimated)",,,
+489,Dr. Alien,4.7,,,,,,
+490,Flesh Gordon Meets the Cosmic Cheerleaders,3.7,,,"$1,500,000 (estimated)",,,
+491,Battle for Terra,6.5,,"May 1, 2009 (United States)",,"$1,647,083","$1,082,064","$6,195,553"
+492,It! The Terror from Beyond Space,6.1,,"November 9, 1958 (United Kingdom)",,,,
+493,Invasion,5.7,,,,,,
+494,Monster Hunters,2.1,,,,,,
+495,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,7.8,,,,,,"$46,408"
+496,DMT: The Spirit Molecule,7.2,,,,,,
+497,Man Vs.,5.6,,,,,,
+498,Lords of the Deep,2.6,,,,,,
+499,Angry Video Game Nerd: The Movie,5.6,,"July 21, 2014 (United States)","$325,927 (estimated)",,,
+500,Godzilla vs. Gigan,5.7,,,,,,"$2,413,078"
+501,Nightflyers,4.3,,,,"$1,149,470",,"$1,149,470"
+502,Dominion,3.4,,,,,,
+503,Above Majestic,6.2,,,,,,
+504,Invasion Planet Earth,3.2,,,,,,"$16,135"
+505,Guyver: Dark Hero,6.0,,,"$900,000 (estimated)",,,
+506,Fire Maidens of Outer Space,2.4,,,,,,
+507,Lazer Team,5.6,,,"$2,480,421 (estimated)","$1,186,426","$108,586","$1,406,538"
+508,Naisu no mori: The First Contact,6.7,,"October 22, 2005 (United States)",,,,
+509,Star Slammer,3.6,,,"$200,000 (estimated)",,,
+510,Undead,5.4,,"September 4, 2003 (Australia)","A$1,000,000 (estimated)","$41,196","$8,527","$187,847"
+511,Space Raiders,4.7,,,,,,
+512,Real Men,6.1,,,,"$873,903","$241,258","$873,903"
+513,Altered,5.6,,,"$8,000,000 (estimated)",,,"$43,836"
+514,The Day Time Ended,3.5,,,,,,
+515,The Monolith Monsters,6.4,,,,,,
+516,Queen of Blood,5.3,,"March 2, 1966 (United States)",,,,
+517,Not of This Earth,6.3,,,"$100,000 (estimated)",,,
+518,"Abraxas, Guardian of the Universe",2.9,,,,,,
+519,Meatball Machine,5.7,,,,,,
+520,Luis and the Aliens,6.0,,,,"$169,710",,"$12,641,315"
+521,Space Battleship Yamato,6.1,,"December 1, 2010 (Japan)","$12,000,000 (estimated)",,,"$49,827,298"
+522,Star Crystal,3.5,,,,,,
+523,2069: A Sex Odyssey,4.1,,,,,,
+524,Overnight Republic,5.8,,,,,,"$3,540,420"
+525,Godzilla vs. SpaceGodzilla,5.9,,,"$10,300,000 (estimated)",,,
+526,Time Runner,4.2,,,,,,
+527,The Mothman of Point Pleasant,6.1,,,"$2,000 (estimated)",,,
+528,Warlords of the Deep,5.6,,,,,,
+529,Alien Hunter,5.1,,,"$7,000,000 (estimated)",,,
+530,Mission Stardust,4.1,,,,,,
+531,The Phoenix Incident,5.6,,,"$1,300,000 (estimated)",,,
+532,The Return,3.7,,,"$750,000 (estimated)",,,
+533,Oblivion 2: Backlash,5.2,,,"$2,500,000 (estimated)",,,
+534,Kronos,5.7,,,"$160,000 (estimated)",,,
+535,The Man from Planet X,5.8,,,"$41,000 (estimated)",,,
+536,Landscape with Invisible Hand,,,,,,,
+537,Superlopez,5.4,,,"€7,300,000 (estimated)",,,"$14,347,006"
+538,Missile to the Moon,4.0,,,"$65,000 (estimated)",,,
+539,Nightbeast,4.2,,,"$42,000 (estimated)",,,
+540,Travis: The True Story of Travis Walton,6.9,,,"$100,000 (estimated)",,,
+541,Alien Predator,1.7,,,,,,
+542,King of Thorn,6.4,,,,,,
+543,Femalien 2,3.9,,,,,,
+544,Feeders,2.5,,,$500 (estimated),,,
+545,The Whisperer in Darkness,6.6,,,,,,
+546,Gamera vs. Viras,4.6,,,,,,
+547,Assassination Classroom: The Graduation,5.7,,,,,,"$31,383,050"
+548,Save the Green Planet!,7.3,,,,"$15,516","$3,040","$15,516"
+549,Astro,2.1,,,"$1,000,000 (estimated)",,,
+550,Flight of the Navigator,,,,,,,
+551,Alien Autopsy,5.9,,,"£5,000,000 (estimated)",,,"$4,043,612"
+552,Nightwish,4.9,,,,,,
+553,Icarus XB 1,7.0,,,,,,"$2,130"
+554,The Brain Eaters,4.4,,,"$30,000 (estimated)",,,
+555,The Eel,7.4,,,,"$418,480","$29,879","$418,480"
+556,Morons from Outer Space,4.5,,,,"$441,137",,"$441,137"
+557,I Am Here... Now,4.8,,,,,,
+558,Sirius,6.3,,,"$520,000 (estimated)",,,
+559,Dragon Ball Z: Cooler's Revenge,7.2,,"January 22, 2002 (United States)",,,,"$16,331,742"
+560,Progeny,4.9,,,"$2,500,000 (estimated)",,,
+561,Monster a Go-Go,2.2,,,,,,
+562,They Came from Beyond Space,4.5,,,,,,
+563,The Borrower,5.4,,,"$2,000,000 (estimated)",,,
+564,Thorp,5.3,,,,,,
+565,Spaced Out,4.5,,,,,,
+566,Planeta bur,6.4,,,,,,
+567,Useless Humans,4.7,,,,,,
+568,Night of the Big Heat,5.6,,,,,,
+569,Chariots of the Gods,6.3,,,,"$25,948,300",,
+570,Intergalactic Combat,6.8,,,"$1,000,000 (estimated)",,,
+571,Unearthed,4.0,,,,"$97,182","$512,000","$97,182"
+572,Almost Human,4.7,,,"$50,000 (estimated)","$8,447","$2,722","$8,608"
+573,Time Walker,3.6,,,"$750,000 (estimated)",,,
+574,Joker,2.4,,,,"$169,181","$105,366","$5,494,896"
+575,Skyman,5.1,,,,,,
+576,Alien Addiction,5.0,,,,,,"$12,412"
+577,The Green Slime,4.9,,"December 19, 1968 (Japan)",,,,
+578,Uno sceriffo extraterrestre... poco extra e molto terrestre,6.2,,"August 10, 1979 (West Germany)",,,,
+579,Extraordinary: The Stan Romanek Story,3.8,,,,,,
+580,Arachnid,3.9,,,"$570,000 (estimated)",,,
+581,Candy Stripers,3.3,,,,,,
+582,The 27th Day,6.2,,,,,,
+583,Arrival II,3.9,,,"CA$6,000,000 (estimated)",,,
+584,The Alien Factor,4.0,,,"$30,000 (estimated)",,,
+585,Untitled Ben 10 Project,,,United States,,,,
+586,Invasion: UFO,5.9,,,,,,
+587,Pass Thru,5.2,,,,,,
+588,The Color Out of Space,6.3,,,,,,
+589,Frankenstein Meets the Spacemonster,3.8,,,"$60,000 (estimated)",,,
+590,Night Skies,4.6,,,,,,
+591,Thirst,4.4,,,,,,
+592,The Lost Skeleton of Cadavra,7.0,,,"$40,000 (estimated)","$143,121","$10,425","$143,121"
+593,Dragon Ball Z: Broly - The Legendary Super Saiyan,7.5,,"August 26, 2003 (United States)",,"$658,982","$357,322","$658,982"
+594,Curse of the Mayans,3.3,,,"MX$11,000,000 (estimated)",,,
+595,Slapstick of Another Kind,2.6,,,,,,
+596,1974: La posesión de Altair,5.7,,,,,,"$200,362"
+597,51,3.5,,,"$1,361,398 (estimated)",,,
+598,Dragon Ball: Curse of the Blood Rubies,6.9,,,,,,"$7,417,517"
+599,The Mysterians,6.2,,,,"$975,000",,
+600,Supersonic Man,3.2,,,,,,
+601,Godzilla: The Planet Eater,5.1,,,,,,"$1,523,168"
+602,Evil Aliens,5.2,,"March 10, 2006 (United Kingdom)","$1,800,000 (estimated)",,,
+603,Savage,4.1,,,"$5,000,000 (estimated)",,,
+604,The Rejected,4.7,,,"$5,000 (estimated)",,,
+605,Love You to the Stars and Back,7.6,,,,,,
+606,The Wild Blue Yonder,6.2,,,,,,"$6,970"
+607,Starship Invasions,3.7,,,"CA$2,150,000 (estimated)",,,
+608,I Sell the Dead,6.1,,,"$750,000 (estimated)","$8,050","$3,529","$8,050"
+609,Returner,6.5,,,,"$73,060","$29,214","$9,978,256"
+610,Barbie: Star Light Adventure,6.0,,,,,,"$1,216,246"
+611,The Creature Wasn't Nice,3.5,,,"$1,200,000 (estimated)",,,
+612,Remote Control,5.6,,"April 7, 1988 (United States)","$3,000,000 (estimated)",,,
+613,Message from Space,4.9,,,"¥6,000,000 (estimated)",,,
+614,Star Odyssey,2.8,,,,,,
+615,The Visitor from Planet Omicron,5.6,,,,,,
+616,Rocky Horror Show Live,7.9,,,,,,
+617,The Dark Lurking,3.4,,,"$1,000,000 (estimated)",,,
+618,The Human Duplicators,3.1,,,"$140,000 (estimated)",,,
+619,Mirage Men,6.3,,,,,,
+620,Illegal Aliens,2.9,,,,,,
+621,Alien Predator,3.7,,"February 6, 1987 (United States)",,"$2,554","$2,554",
+622,Alien Arrival,4.5,,,,,,
+623,The Journey: Absolution,2.5,,,"$1,700,000 (estimated)",,,
+624,Sky Pirates,4.2,,,,,,
+625,The Human Race,5.1,,,,,,
+626,Zebraman,6.5,,,,,,"$3,070,596"
+627,Intelligent Life,,,,,,,
+628,I Married a Monster from Outer Space,6.4,,,"$175,000 (estimated)",,,
+629,Prisoners of the Sun,3.7,,,"$18,000,000 (estimated)",,,
+630,Insectula!,4.7,,"March 13, 2015 (United States)",,,,
+631,Alpha Code,3.3,,,"$3,000,000 (estimated)",,,
+632,Under the Mountain,4.9,,,,,,"$662,879"
+633,Crossbreed,4.0,,,"$350,000 (estimated)",,,
+634,Evil Spawn,3.9,,,"$30,000 (estimated)",,,
+635,Visitors from the Arkana Galaxy,6.0,,,,,,
+636,Alien Raiders,5.6,,,,,,
+637,Extra Terrestrial Visitors,2.1,,,,,,
+638,The Atomic Submarine,5.2,,,"$135,000 (estimated)",,,
+639,Alien 2: On Earth,3.7,,,"ITL 400,000,000 (estimated)",,,
+640,Project Ithaca,4.0,,,"CA$5,000,000 (estimated)",,,
+641,Seedpeople,4.3,,,,,,
+642,Crayon Shin-Chan: Invasion!! Alien Shiriri,6.3,,,,,,"$15,216,719"
+643,Taking Earth,2.6,,,"$250,000 (estimated)",,,
+644,Urusei Yatsura 2: Beautiful Dreamer,7.5,,,,,,
+645,The Crawling Hand,3.1,,,"$100,000 (estimated)",,,
+646,Thor: End of Days,2.6,,,"$1,500,000 (estimated)",,,
+647,The Toy Box,4.6,,,,,,
+648,Night of the Blood Beast,3.4,,,"$68,000 (estimated)",,,
+649,Zone Troopers,5.3,,,,,,
+650,Horizon,3.6,,,"£30,000 (estimated)",,,
+651,Alien Outpost,4.8,,,"$4,000,000 (estimated)",,,"$45,769"
+652,Eleven Eleven,3.9,,,"$350,000 (estimated)",,,
+653,The Space Children,4.2,,,,,,
+654,The Return of Captain Invincible,5.7,,,"A$5,000,000 (estimated)",,,
+655,Xtro 3: Watch the Skies,3.6,,,,,,
+656,The Pink Chiquitas,4.2,,,,,,
+657,Extraterrestrial,5.8,,,"$2,000,000 (estimated)",,,"$266,512"
+658,The Earth Dies Screaming,5.9,,,,,,
+659,Ayalaan,,,,,,,
+660,Deadly Instincts,3.1,,,,,,
+661,The Big Bang,5.7,,,,,,
+662,Demonwarp,4.7,,,"$225,000 (estimated)",,,
+663,Alien Abduction: Intimate Secrets,3.5,,,,,,
+664,The Alien Dead,2.9,,,"$12,000 (estimated)",,,
+665,Xtro II: The Second Encounter,3.4,,"March 1, 1991 (United States)",,,,
+666,Abbott and Costello Go to Mars,6.0,,,"$754,000 (estimated)",,,
+667,Incident at Montauk,2.8,,,"$7,000 (estimated)",,,
+668,The Prototype,,,Italy,"$980,000 (estimated)",,,
+669,Before We Vanish,6.2,,,,"$52,087","$8,370","$448,829"
+670,The Arrival,4.6,,,,,,
+671,Being Taken - Director's Cut (2021),6.0,,,"$200,000 (estimated)",,,
+672,Monolith,4.5,,,,,,
+673,Very Close Encounters of the Fourth Kind,5.7,,,,,,
+674,The Rodriguez and the Beyond,4.7,,,,,,"$1,861,881"
+675,Extraordinary: The Seeding,5.0,,,,,,
+676,The War of the Worlds: Next Century,6.9,,,,,,
+677,Cute Little Buggers,3.4,,,"£25,000 (estimated)",,,
+678,End of the World,3.1,,,,,,
+679,Spermula,4.1,,,,,,
+680,There's Nothing Out There,5.8,,"April 26, 1991 (United States)","$350,000 (estimated)",,,
+681,Dead Mountaineer's Hotel,6.8,,,,,,
+682,Star Pilot,4.3,,,,,,
+683,Magic Crystal,6.0,,,,,,
+684,Lauras Stern,6.3,,,"€3,400,000 (estimated)",,,"$8,673,632"
+685,First Man Into Space,5.5,,,"£100,000 (estimated)",,,
+686,Toomorrow,5.4,,,,,,
+687,Red Planet Mars,4.9,,,,,,
+688,Duelle,7.2,,,,,,
+689,Timemaster,3.8,,,,,,
+690,Dragon Ball Z: Tree of Might,6.9,,"March 17, 1998 (United States)",,,,"$8,633,074"
+691,Biohazard,3.5,,,"$250,000 (estimated)",,,
+692,The Astounding She-Monster,3.7,,,"$18,000 (estimated)",,,
+693,Pet Shop,4.5,,,,,,
+694,Everything Happens to Me,5.9,,,,,,
+695,Visit to a Small Planet,6.0,,,,,,
+696,Starman,,,,,,,
+697,The War of the Robots,2.8,,,,,,
+698,Godzilla: City on the Edge of Battle,5.8,,,,,,
+699,Vampire Vixens from Venus,3.2,,,,,,
+700,Aliens: Zone of Silence,3.5,,,,,,
+701,To the Stars by Hard Ways,6.1,,,,,,
+702,All the Gods in the Sky,6.0,,,,,,
+703,The Gracefield Incident,4.2,,,,,,"$102,256"
+704,The Rocket Man,5.7,,,,,,
+705,Invasion of the Animal People,3.8,,,"$40,000 (estimated)",,,
+706,Imitation Girl,5.0,,,,,,
+707,War of the Satellites,5.1,,,"$70,000 (estimated)",,,
+708,Friendship's Death,6.2,,,,,,
+709,Star Knight,4.1,,,,,,
+710,Baberellas,3.6,,,,,,
+711,Parasyte: Part 2,6.5,,,,,,"$12,828,929"
+712,Aftershock,4.2,,,,,,
+713,The Blob,,,,,,,
+714,The Substitute,5.8,,,,,,"$2,276,515"
+715,Wavelength,5.7,,,,,,
+716,Horror of the Blood Monsters,3.2,,"February 1, 1970 (United States)",,,,
+717,Doctor Who: Besieged,6.7,,,"£10,000 (estimated)",,,
+718,Space Amoeba,5.4,,,,,,
+719,Breaking Barbi,5.0,,,"$1,000,000 (estimated)",,,
+720,Horror Hotel: The Movie,4.5,,,,,,
+721,Trail of the Screaming Forehead,6.1,,,,,,
+722,Gamera vs. Guiron,4.3,,,,,,
+723,The Beast with a Million Eyes,3.7,,,"$23,000 (estimated)",,,
+724,Earthfall,,,,,,,
+725,Thundercats,,,,,,,
+726,Mission Mars,4.4,,,,,,
+727,Alien Abduction,2.6,,,"$600,000 (estimated)",,,
+728,Battle for Skyark,2.8,,,"$7,000,000 (estimated)",,,
+729,Le Sequel,6.5,,,,,,
+730,The War in Space,5.0,,,,,,
+731,The Hidden II,3.0,,,,,,
+732,Hyperspace,5.0,,,,,,
+733,Heatstroke,3.0,,,"$2,500,000 (estimated)",,,
+734,The Ugly Swans,7.0,,,,,,
+735,Alien Siege,2.3,,,,,,
+736,Quartz Vein,5.8,,,,,,
+737,Invasion of the Star Creatures,3.1,,,,,,
+738,The Day Before Disclosure,7.0,,,"$100,000 (estimated)",,,
+739,Mysterious Object at Noon,6.8,,,,,,
+740,Dragon Ball Z: Lord Slug,6.7,,"August 7, 2001 (United States)",,,,"$15,218,214"
+741,League of Superheroes,4.7,,,,,,
+742,Thrive: What on Earth Will It Take?,6.8,,,,,,
+743,Ancient Aliens Debunked,6.7,,,"$15,000 (estimated)",,,
+744,Oddballs,4.4,,,"CA$720,000 (estimated)",,,
+745,Blue Flame,4.7,,,,,,
+746,My Alien Girlfriend,5.3,,,,,,
+747,Alien Opponent,4.4,,"August 5, 2011 (United States)",,,,
+748,Alien Escape,5.0,,,"$1,000,000 (estimated)",,,
+749,The Violent Kind,4.7,,,"$1,000,000 (estimated)",,,
+750,Archons,3.9,,,,,,
+751,Sex and the Single Alien,3.9,,,,,,
+752,Gamera: Super Monster,3.8,,,,,,
+753,Patient Seventeen,3.6,,,,,,
+754,Pokémon the Movie: Destiny Deoxys,6.1,,,"¥10,203,000 (estimated)",,,"$34,337,258"
+755,Invisible Invaders,5.0,,,,,,
+756,Gray Matter,3.1,,,,"$38,034","$14,064","$38,034"
+757,Plan 10 from Outer Space,6.1,,,,,,
+758,By Dawn,3.8,,,,,,
+759,The Brain from Planet Arous,5.2,,,"$58,000 (estimated)",,,
+760,The Coming,1.4,,,"$50,000 (estimated)",,,
+761,Endangered Species,4.1,,,,,,
+762,Alien Domicile,3.2,,,"$85,000 (estimated)",,,
+763,SheBorg,4.0,,,,,,
+764,Hyper Sapien: People from Another Star,4.8,,,"$13,000,000 (estimated)",,,
+765,Reptile 2001,2.7,,,"₩10,000,000,000 (estimated)",,,
+766,War of the Worlds: Goliath,5.5,,,,"$13,385","$13,385","$13,385"
+767,Antarctica,6.0,,,,"$21,679",$798,"$21,679"
+768,Peacemaker,5.3,,,,,,
+769,The Mystery of the Third Planet,8.0,,,,,,
+770,The Cat,6.6,,,,,,
+771,Badi,3.2,,,,,,
+772,Monstroid,2.8,,,,,,
+773,12 to the Moon,3.2,,,"$150,000 (estimated)",,,
+774,Creature of Darkness,2.5,,,,,,
+775,Alien Terminator,2.9,,"October 9, 1996 (United States)",,,,
+776,The Secret Lives of Road Crews,,,,,,,
+777,Meatball Machine Kodoku,5.8,,,,,,
+778,Earthling,4.2,,,,,,
+779,Dead House,3.7,,,,,,
+780,Gamera vs. Zigra,3.6,,,,,,
+781,Adam's Package,3.3,,,,,,
+782,InAlienable,3.4,,,"$1,500,000 (estimated)",,,
+783,Hercules Against the Moon Men,2.9,,,,,,
+784,The Venusian,5.4,,,,,,
+785,Dropa,5.0,,,"$1,200,000 (estimated)",,,
+786,Dust of War,3.9,,,"$200,000 (estimated)",,,
+787,Dark Space,3.7,,,"$750,000 (estimated)",,,
+788,Kiss Me Quick!,4.9,,,,,,
+789,Case 347,5.2,,,,,,
+790,The Monitors,4.7,,,,,,
+791,Cherry Hill High,4.0,,,,,,
+792,Lensman,6.6,,,,,,
+793,The Item,2.8,,,,,,
+794,Against the Night,4.5,,,,,,
+795,The Amazing Colossal Woman,5.8,,,,,,
+796,Blood Suckers from Outer Space,4.8,,,,,,
+797,Le martien de Noël,4.9,,,,,,
+798,Monster High,3.5,,,,,,
+799,Final Invasion,,,,,,,
+800,Alien from the Deep,4.0,,,,,,
+801,The Boy Who Turned Yellow,5.8,,,,,,
+802,The Shadow Men,4.8,,,"$2,000,000 (estimated)",,,
+803,"Goke, Body Snatcher from Hell",6.2,,,,,,
+804,Agents of Project Blue Book,,,,"$50,000 (estimated)",,,
+805,Amazon,4.8,,,,,,
+806,Lifeform,4.8,,,,,,
+807,Alien Private Eye,3.9,,,,,,
+808,The Bamboo Saucer,5.5,,,,,,
+809,The Girl from Monday,5.3,,,,,,$921
+810,Invasion from Inner Earth,2.6,,,,,,
+811,Aliens vs. Avatars,1.5,,,,,,
+812,The Regional Office Is Under Attack,,,,,,,
+813,Doin' Time on Planet Earth,4.7,,,,"$29,576",,"$29,576"
+814,Journey to the Center of Time,3.7,,,,,,
+815,The High Crusade,5.2,,,,,,
+816,Groom Lake,2.6,,,"$750,000 (estimated)",,,
+817,Invasion of the Neptune Men,2.2,,,,,,
+818,Not of This Earth,4.8,,,,,,
+819,"Aelita, the Queen of Mars",6.5,,,,,,
+820,Arcadia of My Youth,7.1,,,,,,
+821,Evil Alien Conquerors,4.9,,,"$500,000 (estimated)",,,
+822,Alien Intrusion: Unmasking a Deception,5.1,,,,"$237,411",,"$237,411"
+823,Shark Encounters of the Third Kind,3.4,,,"$30,000 (estimated)",,,
+824,Teenage Space Vampires,2.7,,,,,,
+825,The UFO Conclusion,5.0,,,"$250,000 (estimated)",,,
+826,Interceptor Force,3.9,,,,,,
+827,GoBots: Battle of the Rock Lords,5.8,,,,"$1,338,264","$531,905","$1,338,264"
+828,Dark Breed,4.1,,,,,,
+829,Kokey,5.9,,,,,,
+830,Galaxy of Horrors,4.6,,,,,,
+831,Superman: Requiem,4.1,,"November 11, 2011 (United States)","$20,000 (estimated)",,,
+832,Süpermen Dönüyor,3.8,,,,,,
+833,Alien Warrior,4.3,,,,,,
+834,Tellurian,,,,,,,
+835,The Quatermass Conclusion,5.7,,,,,,
+836,Atlantis Down,3.3,,,"$1,000,000 (estimated)",,,
+837,Hornet,1.9,,,,,,
+838,Bill the Galactic Hero,5.2,,,"$114,957 (estimated)",,,
+839,Islamophobia,,,,,,,
+840,Stranded,5.4,,,,,,
+841,Top Line,4.7,,,,,,
+842,The Glitterball,6.1,,,,,,
+843,The Body Stealers,4.2,,,,,,
+844,The Man from the First Century,6.1,,,,,,
+845,Eyes Behind the Stars,3.9,,,,,,
+846,Alien Visitor,5.8,,,,,,
+847,Montauk Chronicles,4.2,,,,,,
+848,The Legend of Wisely,6.2,,,,,,
+849,You're Gonna Miss Me,7.6,,,,"$2,324","$1,340","$2,324"
+850,Unaware,4.5,,"March 12, 2013 (United States)",,,,
+851,The Device,3.1,,,,,,
+852,Infection,4.3,,,"$35,000 (estimated)",,,
+853,7 from Etheria,4.9,,,,"$2,208",$940,"$2,208"
+854,Ombis: Alien Invasion,4.3,,,"$36,000 (estimated)",,,
+855,The Invader,4.0,,,,,,
+856,Assassinaut,4.0,,,,,,
+857,Prince of Space,2.3,,,,,,
+858,The Cosmic Man,4.8,,,,,,
+859,Urusei Yatsura: Only You,6.8,,,,,,
+860,Alien Abduction: The Odyssey of Betty and Barney Hill,7.8,,,,,,
+861,Alien Space Avenger,5.1,,,,,,
+862,Space Dogs: Tropical Adventure,5.3,,,,,,"$682,712"
+863,Welcome to the Space Show,6.8,,,,,,
+864,Deceit,4.9,,,"$25,000 (estimated)",,,
+865,Mysteries of the Gods,5.7,,,,,,
+866,Earthbound,4.6,,,,,,
+867,Foreboding,5.7,,,,,,
+868,Thru the Moebius Strip,5.2,,,"CN¥156,000,000 (estimated)",,,"$275,216"
+869,The First Man,3.9,,,"$1,000,000 (estimated)",,,
+870,Contactee,3.7,,,"$10,000 (estimated)",,,
+871,Blasted,,,,,,,
+872,The War of the Planets,4.0,,,,,,
+873,They Live,,,,,,,
+874,Destination Inner Space,4.6,,,,,,
+875,Encounters,4.7,,,,,,
+876,Interstellar Wars,1.6,,,,,,
+877,Blood Beast from Outer Space,5.5,,,,,,
+878,Zonad,5.3,,,,,,
+879,Starship Troopers,,,,,,,
+880,The Darkest Dawn,4.1,,,,,,
+881,Gilgamesh,3.6,,"November 20, 2014 (United States)","$20,000 (estimated)",,,
+882,Incident at Raven's Gate,5.4,,,,,,
+883,Flying Objects: A State Secret,6.1,,,,,,
+884,Grey Skies,3.4,,,"$1,500,000 (estimated)",,,
+885,Munchie Strikes Back,3.2,,,,,,
+886,Sightings,3.7,,,,,,
+887,The Hidden Hand: Alien Contact and the Government Cover-Up,4.9,,,,,,
+888,Big Meat Eater,5.3,,,"CA$220,000 (estimated)",,,
+889,The Aurora Encounter,4.4,,,,,,
+890,Star Blazers 2199: Odyssey of the Celestial Ark,7.4,,,,,,
+891,CJ7: The Cartoon,5.9,,"July 9, 2010 (China)",,,,
+892,Silent Angel,,,,,,,
+893,Alien from Area 51: The Alien Autopsy Footage Revealed,3.7,,,,,,
+894,Battle Planet,3.9,,,,,,
+895,Murdercycle,3.4,,,,,,
+896,Memphis Rising: Elvis Returns,6.7,,,"$1,000,000 (estimated)",,,
+897,Liberty,,,,"$5,000,000 (estimated)",,,
+898,The Visitants,3.5,,,"$8,500 (estimated)",,,
+899,Laserhawk,4.1,,,"$7,000,000 (estimated)",,,
+900,Vril,,,,,,,
+901,Old Man's War,,,,,,,
+902,Starlight,2.4,,"August 26, 1997 (United States)",,,,
+903,Bane,3.4,,,"£100,000 (estimated)",,,
+904,Snow Devils,3.6,,,,,,
+905,Urusei Yatsura 6: Always My Darling,6.3,,,,,,
+906,Showdown at Area 51,3.3,,"July 1, 2009 (France)","$3,000,000 (estimated)",,,
+907,Mars Attacks the World,5.5,,,,,,
+908,Top of the Food Chain,6.3,,,,,,
+909,The Killings at Outpost Zeta,4.0,,,,,,
+910,Galactic Gigolo,3.5,,,,,,
+911,Turist Ömer Uzay Yolu'nda,7.3,,,"TRL 350,000 (estimated)",,,
+912,Hot Wheels Acceleracers the Ultimate Race,7.6,,,,,,
+913,The Forbidden Dimensions,1.8,,,"$35,000 (estimated)",,,
+914,51 Nevada,3.4,,,,,,
+915,No Place Like Home,4.9,,,,,,
+916,As Time Goes by,5.6,,,,,,
+917,Alien Species,2.6,,,,,,
+918,Resiklo,3.4,,,,,,
+919,Eat and Run,4.8,,,,,,
+920,Planet of the Female Invaders,4.9,,,,,,
+921,UFO: It Is Here,3.6,,,"€100,000 (estimated)",,,
+922,Last Man,,,,,,,
+923,UFOs: It Has Begun,7.1,,,,,,
+924,Unseen Evil,3.4,,,,,,
+925,Robot World,3.8,,,,,,
+926,The Wizard of Mars,3.5,,,"$33,000 (estimated)",,,
+927,Ultraman,7.3,,,,,,
+928,Science Fiction,5.9,,,,,,
+929,Batang-X,6.5,,,,,,
+930,Infection: The Invasion Begins,2.4,,,,,,
+931,The Creep Behind the Camera,5.9,,,,,,
+932,Emergence,,,,,,,
+933,The Ideon: Be Invoked,7.3,,,,,,
+934,Doraemon: Great Adventure in the Antarctic Kachi Kochi,6.8,,,,,,"$61,153,455"
+935,Kraa! The Sea Monster,3.6,,,,,,
+936,Alien Dawn,2.3,,,"$1,850,000 (estimated)",,,
+937,King of the Coral Sea,6.9,,,"£23,862 (estimated)",,,
+938,Flicks,5.4,,,,,,
+939,The Hills Have Thighs,4.7,,,"$50,000 (estimated)",,,
+940,Complicity,6.6,,,,,,
+941,Meatball Machine,5.9,,,,,,
+942,Battle of the Stars,2.7,,,,,,
+943,Nomad: The Beginning,3.0,,,,,,
+944,Xaver,6.4,,,,,,
+945,The Protectors,5.8,,,,,,
+946,Not Like Us,4.3,,,,,,
+947,Music of the Spheres,6.7,,,"CA$60,000 (estimated)",,,
+948,Area 51 Confidential,4.6,,,,,,
+949,Smugglers' Cove,6.4,,,,,,
+950,Ultraman X: Here He Comes! Our Ultraman,5.8,,,"$25,000,000 (estimated)",,,
+951,Tabloid,5.5,,,,,,
+952,UFO Kidnapped,7.2,,,,,,
+953,Alien Exorcism,4.0,,,"€1,000,000 (estimated)",,,"$50,431"
+954,Silent Möbius,6.3,,,,,,
+955,Slim Slam Slum,2.4,,,,,,
+956,Games of Survival,4.0,,,,,,
+957,Power,6.3,,,,,,
+958,Drones,6.3,,,"$500,000 (estimated)",,,
+959,TeenAlien,3.5,,,,,,
+960,Zarkorr! The Invader,3.7,,,,,,
+961,Looking Up,,,,,,,
+962,Sally Marshall Is Not an Alien,5.5,,"February 25, 2000 (Canada)",,,,
+963,Inimigo Desconhecido: Enemy Unknown,8.6,,,"€20,000 (estimated)",,,
+964,Sister Tempest,6.7,,,,,,
+965,Mega Monster Battle: Ultra Galaxy Legends - The Movie,6.8,,,,,,"$6,194,516"
+966,The Hill and the Hole,3.9,,,"$50,000 (estimated)",,,
+967,Interstelar,7.5,,,RUR 65 (estimated),,,
+968,The Epidemic,,,,"$800,000 (estimated)",,,
+969,Hi-8 (Horror Independent 8),4.5,,,,,,
+970,Alien Vs. Zombies,4.0,,,,,,
+971,Ancient Aliens and the New World Order,6.5,,,"$50,000 (estimated)",,,
+972,Midnight Movie Massacre,3.1,,,,,,
+973,Final Equinox,3.9,,"October 30, 1995 (United States)",,,,
+974,Phil the Alien,5.3,,,"CA$340,000 (estimated)",,,
+975,SüperTürk,1.9,,,,,,"$321,423"
+976,Mysterious Planet,3.2,,,,,,
+977,Mutilations,4.9,,,"$95,000 (estimated)",,,
+978,Housewife Alien vs. Gay Zombie,6.5,,,,,,
+979,V: The Movie,,,,,,,
+980,Shake Rattle and Roll Fourteen: The Invasion,5.2,,,,,,
+981,Curse of the Man Who Sees UFOs,7.2,,,,,,
+982,Interplanetary,4.4,,,,,,
+983,Earthbound,5.7,,,,,,
+984,Choker,2.9,,,"$35,000 (estimated)",,,
+985,Black Antenna,,,,,,,
+986,Aliens from Uranus,4.8,,,"$500,000 (estimated)",,,
+987,Things That Hang from Trees,5.4,,,"$1,000,000 (estimated)",,,
+988,Historias violentas,7.2,,,,,,
+989,Invasion Earth: The Aliens Are Here,3.3,,,,,,
+990,Fastwalkers,6.3,,,"$150,000 (estimated)",,,
+991,Space Force 2911,2.5,,,"TRL 3,000,000 (estimated)",,,
+992,Starship: Apocalypse,2.7,,,,,,
+993,PSI Factor,4.8,,,,,,
+994,The Silent Revolution of Truth,6.3,,,"$120,000 (estimated)",,,
+995,The Arrival of Wang,5.8,,,,,,"$10,870"
+996,Freezer Burn: The Invasion of Laxdale,4.3,,,"$10,000,000 (estimated)",,,
+997,Santos,2.5,,,"€6,000,000 (estimated)",,,"$147,090"
+998,"Mercano, el marciano",6.7,,,"$600,000 (estimated)",,,"$7,715"
+999,Alien Seed,2.7,,,,,,
+1000,Moonwalker,,,,,,,
+1001,Aliens vs. Bigfoot,5.0,,,"$50,000 (estimated)",,,
+1002,El E.T.E. y el Oto,3.0,,,,,,
+1003,The Return of James Battle,5.4,,,"€16,000,000 (estimated)",,,"$1,540,614"
+1004,Alien Factor 2: The Alien Rampage,3.7,,,"$35,000 (estimated)",,,
+1005,The Brother from Space,3.6,,,,,,
+1006,Inter Star Wars 2. The Last Jehi,8.4,,,RUR 65 (estimated),,,
+1007,Overtime,5.3,,,"$5,000 (estimated)",,,
+1008,Cheon-nyeon-yeo-woo-yeo-woo-bi,6.8,,,"₩2,700,000,000 (estimated)",,,"$2,779,260"
+1009,They Were Eleven,7.1,,,,,,
+1010,"Route 30, Too!",6.4,,,,,,
+1011,Birth,6.1,,,,,,
+1012,Red Zone,3.8,,,,,,
+1013,Revenge of the Lost,3.7,,,,,,
+1014,Unidentified Flying Objects: The True Story of Flying Saucers,5.4,,,,,,
+1015,Alien Wars: Judgement Day,,,,,,,
+1016,ET Contact: They Are Here,5.7,,,,,,
+1017,The Book of Fate,3.7,,,,,,
+1018,Flying Saucers,6.1,,,"€2,253,327 (estimated)",,,"$61,270"
+1019,The Philadelphia Experiment Revealed: Final Countdown to Disclosure from the Area 51 Archives,7.4,,,,,,
+1020,Isola: Multiple Personality Girl,5.2,,,,,,
+1021,Lock-In,8.4,,,,,,
+1022,Polymorph,4.2,,,"$10,000 (estimated)",,,
+1023,Frankenpimp,1.1,,,"CA$30,000 (estimated)",,,
+1024,Altered States of Plaine,5.7,,,,,,
+1025,Invader,4.1,,,"$242,000 (estimated)",,,
+1026,Alien Nation,,,,,,,
+1027,Captain Barbell,7.1,,,,,,
+1028,Crop Circles: Quest for Truth,6.8,,,"$750,000 (estimated)","$11,562","$5,763","$11,562"
+1029,Luci lontane,6.2,,,,,,
+1030,I Was a Zombie for the F.B.I.,4.9,,,,,,
+1031,La fille à la fourrure,4.9,,,,,,
+1032,Snatchers,5.2,,,,,,
+1033,Flatwoods,,,,"$10,000 (estimated)",,,
+1034,Darna and the Giants,5.4,,,,,,
+1035,Space Case,3.8,,,,,,
+1036,Arrival,,,,"$1,000,000 (estimated)",,,
+1037,Christmas with Cookie,4.6,,,"$1,000 (estimated)",,,
+1038,Blood Predator,2.3,,,"$250,000 (estimated)",,,
+1039,Encuentro en el abismo,3.5,,,,,,
+1040,Planet of the Vampire Women,5.9,,,"$25,000 (estimated)",,,
+1041,The Fury of the Karate Experts,4.4,,,,,,
+1042,ZsaZsa Zaturnnah Ze Moveeh,4.9,,,,,,
+1043,Fright Show,5.2,,,,,,
+1044,Invasion of the Body Snatchers,,,,,,,
+1045,Orion's Key,3.5,,,,,,
+1046,Supersonic Saucer,5.6,,,,,,
+1047,Beyond Good & Evil,,,,,,,
+1048,The Corrupted,3.0,,,,,,
+1049,All Together Now,6.9,,,"$200,000 (estimated)",,,
+1050,Planets Around Us,4.8,,,,,,
+1051,"No Survivors, Please",6.1,,,,,,
+1052,Spectres,5.6,,,,,,
+1053,The Hollow World,3.6,,,,,,
+1054,Povestea dragostei,6.6,,,,,,
+1055,The Hidan of Maukbeiangjow,5.0,,,,,,
+1056,Fantastic Man,6.3,,,"₱30,000,000 (estimated)",,,
+1057,Over the Rainbow,2.8,,,,,,
+1058,Report 51,3.4,,,"€250,000 (estimated)",,,
+1059,Hermit: Monster Killer,5.2,,,"SEK 50,000 (estimated)",,,
+1060,Moon Madness,6.4,,,,,,
+1061,Super Ranger Kids,5.8,,,,,,
+1062,Doomsday County,4.4,,,,,,
+1063,Navigators of the Space,2.8,,,,,,
+1064,Twilight of the Dogs,4.9,,,,,,
+1065,Aliens in Egypt,4.9,,,,,,
+1066,El chupacabras,4.3,,,,,,
+1067,E.D.F.,,,,,,,
+1068,Planet of Amoebas,,,,,,,
+1069,"UFOs: Past, Present, and Future",7.5,,,,,,
+1070,Urusei Yatsura 4: Lum the Forever,6.6,,,,,,
+1071,Alienween,5.7,,,,,,
+1072,Unknown Project,5.3,,,,,,
+1073,The Brain Leeches,4.4,,,$298 (estimated),,,
+1074,Europe's Roswell: UFO Crash at Aberystwyth,5.0,,,,,,
+1075,Aliens on Crack,6.6,,,"$500,000 (estimated)",,,
+1076,Hellish Spiders,5.3,,,,,,
+1077,The Aliens Are Stealing Our Weed,,,,,,,
+1078,Shani,6.9,,,,,,
+1079,Breakfast of Aliens,4.6,,,,,,
+1080,Bangis,6.0,,1996 (Philippines),,,,
+1081,Miami Golem,3.9,,1985 (Italy),,,,
+1082,Sounds,3.5,,,,,,
+1083,Space Battleship Yamato Resurrection,6.6,,,,,,"$4,319,940"
+1084,"Katy, Kiki y Koko",6.5,,,,,,
+1085,Tribulation 99: Alien Anomalies Under America,6.4,,,,,,
+1086,Conscious Contact: Full Disclosure,,,,,,,
+1087,The Extraordinary Journey of Celeste Garcia,6.2,,,,,,
+1088,Haruko's Paranormal Laboratory,5.7,,,,,,
+1089,My Substitute Is an Alien,,,,,,,
+1090,America's Fall from Space,8.5,,,,,,
+1091,Snowfall,,,,,,,
+1092,Senario XX,6.5,,,,,,
+1093,Public Enemies,7.2,,,,,,
+1094,Jungle Hell,3.9,,,,,,
+1095,Alien Surveillance,2.2,,,,,,
+1096,Urusei Yatsura 3: Remember My Love,6.6,,,,,,
+1097,Os Trapalhões na Guerra dos Planetas,3.7,,,,,,
+1098,The Whisperer in Darkness,5.8,,,"$1,000 (estimated)",,,
+1099,Chin-Yu-Ki: The Journey to the West with Farts,4.2,,,,,,
+1100,Apex,,,,,,,
+1101,Den rozhdeniya Alisy,5.5,,,,,,"$283,858"
+1102,Aliens & Gufors,6.1,,,,,,
+1103,A Message to the Stars,,,,,,,
+1104,Doctor Who Film,,,,£300 (estimated),,,
+1105,UFOTV Presents the Day Before Disclosure,,,,,,,
+1106,Ultraman Cosmos: The First Contact,6.4,,,,,,"$43,992"
+1107,The Low Budget Time Machine,5.3,,,,,,
+1108,Summer of the Flying Saucer,5.3,,,,,,"$6,047"
+1109,Cosmic Whistleblowers,4.5,,,,,,
+1110,Science Friction,2.3,,,,,,
+1111,13 Weird Stories,5.4,,,,,,
+1112,Alien Prophecy,4.8,,,,,,
+1113,Toxic Alien Zombie Babes from Outer Space,,,,,,,
+1114,Spectrum (Beyond the World's End),4.9,,,,,,
+1115,Eh kasi bata,,,,,,,
+1116,A Noble Lie aka Invasion,,,,"$7,000,000 (estimated)",,,
+1117,The Coming,5.7,,,"CA$50,000 (estimated)",,,
+1118,Alien Babes in Heat,4.6,,,,,,
+1119,Maple Palm,1.7,,,"$500,000 (estimated)",,,
+1120,Shock Invasion,6.1,,,,,,
+1121,Strange Journey,,,,,,,
+1122,Conquistador de la luna,6.2,,,,,,
+1123,"Bañeros III, todopoderosos",2.0,,,,,,"$3,018,987"
+1124,Go to Hell!!,6.6,,,,,,
+1125,Puss Bucket,5.3,,,,,,
+1126,Srdecný pozdrav ze zemekoule,6.5,,,,,,
+1127,UFO Syndrome,5.2,,,,,,
+1128,Ghost Aliens,3.5,,,"$200,000 (estimated)",,,
+1129,Street Eyes,,,,"$120,000 (estimated)",,,
+1130,The Last Man on Earth,6.1,,,"€2,300,000 (estimated)",,,"$159,846"
+1131,Lamp the Movie (That Really Shouldn't Exist); *A Dracula Film,,,,,,,
+1132,Asockalypse!,5.0,,,,,,
+1133,UFO Journals,5.6,,,,,,
+1134,Wahan Ke Log,5.5,,,,,,
+1135,Crops,4.1,,,"$20,000 (estimated)",,,
+1136,"Incident at Devils Den: A True Story, by Terry Lovelace",,,,,,,
+1137,Magic to Love,5.5,,,,,,
+1138,Makuko,6.3,,,,,,
+1139,UFO Man,,,,,,,
+1140,Enteng Kabisote 3: Okay ka fairy ko... The legend goes on and on and on,5.1,,,,,,
+1141,Vegas Skyline,2.5,,,,,,
+1142,The Force on Thunder Mountain,2.8,,,,,,
+1143,La noche de la bestia,6.2,,,,,,
+1144,Zonbi jieitai,4.5,,,,,,
+1145,Silent Möbius 2,6.4,,,,,,
+1146,The Book of Secrets,7.4,,,"$20,000 (estimated)",,,
+1147,Overlords of the U.F.O.,5.0,,"November 5, 1977 (United States)",,,,
+1148,Take Me to Your Leader,,,,,,,
+1149,Driller,6.1,,,"$300,000 (estimated)",,,
+1150,"Hey, Happy!",3.9,,,,,,"$9,620"
+1151,Dead Space,,,,,,,
+1152,Are We Alone in the Universe?,7.5,,,,,,
+1153,Posrednik,6.9,,,,,,
+1154,The Waiting Game,,,,"$3,800 (estimated)",,,
+1155,Vera,5.9,,,,,,
+1156,UFO's Do Not Exist! The Grand Deception and Cover-Up of the UFO Phenomenon,3.8,,,,,,
+1157,Mucha sangre,4.8,,,,,,"$20,750"
+1158,Bio-Tech Warrior,5.9,,,,,,
+1159,High Heels on a Lady,,,,,,,
+1160,The Grays,5.4,,,,,,
+1161,Lost: Black Earth,4.4,,,"A$10,000 (estimated)",,,
+1162,The First Date,2.6,,,"$10,000 (estimated)",,,
+1163,The Secrets of Wu Sin,5.2,,,,,,
+1164,Lajka,5.7,,,,,,"$31,081"
+1165,The Star Master,,,,,,,
+1166,Patriot's Day,,,,"$345,000 (estimated)",,,
+1167,Urusei Yatsura 5: The Final Chapter,7.0,,,,,,
+1168,Baykalskiy intsident. Skrytaya ugroza,6.9,,,RUR 100 (estimated),,,
+1169,A Winter of Empires,,,,"$18,000 (estimated)",,,
+1170,Fiesta Nibiru,6.2,,,"$250,000 (estimated)",,,
+1171,Brightheart: Firefly Action Brigade,4.1,,,"$12,000,000 (estimated)",,,
+1172,The Appearance of a Man,5.1,,,,,,
+1173,Apocalypse Machines,,,,,,,
+1174,Aquatic-X,,,,"$50,000 (estimated)",,,
+1175,Kappa,5.8,,,,,,
+1176,Murderous Tales,5.8,,,,,,
+1177,Juan y Junior... en un mundo diferente,5.0,,,,,,
+1178,What on Earth?,4.8,,,"$250,000 (estimated)",,,
+1179,Atom Nine Adventures,6.6,,,"$20,000 (estimated)",,,
+1180,Operation Redpoint,,,,"$10,000 (estimated)",,,
+1181,Space People,5.3,,,,,,
+1182,Planet der Kannibalen,5.3,,,,,,
+1183,Empatía,8.5,,,,,,"$12,815"
+1184,Sergeant Keroro Super Movie 2: The Deep Sea Princess de arimasu!,6.3,,,,,,"$4,517,857"
+1185,Viu-hah hah-taja,5.1,,,,,,
+1186,Fuerza maldita,,,,,,,
+1187,Lighting Dindin,5.5,,,,,,"$1,454,120"
+1188,Sentinel 2099,5.1,,,,,,
+1189,Kindan no mokushiroku Crystal Triangle,5.7,,,,,,
+1190,Hollytown NC,,,,,,,
+1191,Blood Pledge,,,,,,,
+1192,Enbalming,5.3,,,,,,
+1193,Dreamscape,5.8,,"July 23, 2011 (United States)","$1,500 (estimated)",,,
+1194,Aliens from Spaceship Earth,5.6,,,,,,
+1195,In the Night Sky: I Recall a UFO,6.6,,,,,,
+1196,Les soleils de l'île de Pâques,6.0,,,,,,
+1197,Aliens: Zone-X,4.2,,,"$750,000 (estimated)",,,
+1198,A Genesis Found,6.3,,,"$27,200 (estimated)",,,
+1199,Jason and the Astronauts,,,,,,,
+1200,Sergeant Keroro the Super Movie,6.1,,,,,,"$5,374,376"
+1201,Warum die UFOs unseren Salat klauen,4.9,,,,,,
+1202,The Force Beyond,6.1,,,,,,
+1203,Invisible Adversaries,6.5,,,,,,
+1204,Attack of the B.I.M.B.O.S,,,,,,,
+1205,There,4.8,,,,,,
+1206,Popdown,,,,,,,
+1207,Lies and Deception: UFO's and the Secret Agenda,4.1,,,,,,
+1208,Sapien Safari,,,,,,,
+1209,Hunting Grounds,5.6,,,"$110,000 (estimated)",,,
+1210,The Quest,,,,,,,
+1211,Night of the Alien,4.8,,,,,,
+1212,Tartarus,4.6,,,"€40,000 (estimated)",,,
+1213,The Wheelers,,,,,,,
+1214,Ulysses and the Stars,6.8,,,,,,
+1215,Spacebong Beach Babes,5.5,,,"$13,000 (estimated)",,,
+1216,O31,,,,"£300,000 (estimated)",,,
+1217,Dragon Ball Z: The Greatest Rivals,6.6,,,,,,
+1218,Xenoa,5.2,,,,,,
+1219,Untitled J.J. Abrams/Chris Alender Sci-Fi Project,,,,,,,
+1220,Wooly Booly: Ang classmate kong alien,5.1,,,,,,
+1221,The Man of Ganimedes,4.5,,,,,,
+1222,Alien Encounters: Superior Fan Power Since 1979,8.3,,,"£10,000 (estimated)",,,
+1223,"Abdulladzhan, ili posvyashchaetsya Stivenu Spilbergu",6.7,,,,,,
+1224,Non nuotate in quel fiume 2: Lo scontro finale,4.3,,,€160 (estimated),,,
+1225,Huo xing ren,5.1,,,,,,
+1226,UFO Chronicles: Alien Science and Spirituality,2.9,,,,,,
+1227,L'enfant Alien,,,,,,,
+1228,Little Green Men,,,,,,,
+1229,Tainstvennaya stena,6.6,,,,,,
+1230,Demonia Undertaker,3.4,,,"$500,000 (estimated)",,,
+1231,UFO Chronicles: Pilot Encounters and Underground Bases,5.3,,,,,,
+1232,Groom Lake,,,,,,,
+1233,UFO Chronicles: Contact with Aliens,5.2,,,,,,
+1234,Alien X,,,,,,,
+1235,Starfighters,3.9,,,,,,
+1236,Purple Moon,,,,,,,
+1237,Molchaniye doktora Ivensa,6.2,,,,,,
+1238,Eden,,,,,,,
+1239,Lift,5.6,,,,,,
+1240,Betaville,3.2,,,,,,
+1241,Mayhem Behind Movies,7.3,,,,,,
+1242,Happy Christmas,,,,,,,
+1243,Santo: Infraterrestre,6.1,,,,,,
+1244,Alien Beach Party Massacre,5.0,,,,,,
+1245,Hellacious Acres: The Case of John Glass,3.7,,,,,,
+1246,S4,5.2,,,"$3,500 (estimated)",,,
+1247,Golden Windows,,,,"CA$2,000 (estimated)",,,
+1248,Revenge on the Nerds,,,,,,,
+1249,Eiga Kaibutsukun,5.3,,,"$25,000,000 (estimated)",,,"$39,766,344"
+1250,The Holstein Incident,,,,,,,
+1251,L'extraterrestre,3.4,,,,,,
+1252,Los astronautas,6.0,,,,,,
+1253,Gigantes planetarios,4.4,,,,,,
+1254,Red Genesis,,,,,,,
+1255,Gaiking,,,,,,,
+1256,Chuck Lawson and the Night of the Invaders,3.8,,,"$7,500 (estimated)",,,
+1257,The Wolf and the Baby,7.3,,,,,,
+1258,El extraño visitante,5.3,,,,,,
+1259,I Love the Earth,5.6,,,,,,
+1260,Superzan y el niño del espacio,2.6,,,,,,
+1261,The Last War,,,,,,,
+1262,Ancient Astronauts: Our Extraterrestrial Legacy,,,,,,,
+1263,Sex Odyssey,5.6,,,,,,
+1264,Dust,6.2,,,"$2,000,000 (estimated)",,,
+1265,Misión en Mocland - Una aventura super espacial,5.0,,,,,,"$467,720"
+1266,While the World Slept,,,,$500 (estimated),,,
+1267,Abducted by Aliens: UFO Encounters of the 4th Kind,5.2,,,,,,
+1268,Alien Crash at Roswell: The UFO Truth Lost in Time,5.6,,,,,,
+1269,Detective Jimmy Apple,6.7,,,"$5,000 (estimated)",,,
+1270,Portal,,,,,,,
+1271,The Footsteps of Zeus,,,,"$90,000 (estimated)",,,
+1272,Junior Crew,,,,,,,
+1273,Ebn-e-Batuta,4.5,,,"₹50,000,000 (estimated)",,,
+1274,Milford Green,,,,,,,
+1275,Project 12,7.3,,,,,,
+1276,Blu,,,,,,,
+1277,Abduction,5.5,,,,,,
+1278,Yamata no Orochi no Gyakushu,,,,,,,
+1279,El rey de la granja,5.2,,,,,,"$132,172"
+1280,Memorial,,,,,,,
+1281,Luna Project,,,,,,,
+1282,UFO Chronicles: What the President Doesn't Know,5.6,,,,,,
+1283,Roswell,,,,,,,
+1284,Life on Earth: Severance,,,,,,,
+1285,Cygnus,6.3,,,,,,
+1286,"Darna, Kuno...?",7.4,,,,,,
+1287,The Rift Uprising,,,,,,,
+1288,"Hank, Aaron and the Alien from Outer Space",5.1,,,"$500,000 (estimated)",,,
+1289,Catalina: A New Kind of Superhero,3.3,,,"£1,700 (estimated)",,,
+1290,Three Mirrors Creature's Flashes of Flesh,,,,,,,
+1291,I Am an Alien,,,,"$50,000 (estimated)",,,
+1292,Hackin' Jack vs. the Chainsaw Chick 3D,,,,"$1,001,440 (estimated)",,,
+1293,ChangingMan,,,,"$175,000 (estimated)",,,
+1294,The Paralyzing Agent,5.8,,,"$10,000 (estimated)",,,
+1295,Onde Estão Todos os Alienígenas? Nostalgia Ciência,8.7,,,,,,
+1296,Xenomorph,,,,,,,
+1297,Area 51: Aliens- Nevada Desert,,,,,,,
+1298,Deus Solis: The Gods of Man,,,,,,,
+1299,Venus,,,,,,,
+1300,Aldebaran Rassemblement,,,,,,,
+1301,The Fallen,,,,,,,
+1302,Go Mad and Mark,3.8,,,,,,
+1303,Lake Erie,,,,,,,
+1304,Minibots,,,,,,,
+1305,The Nye Incidents,,,,,,,
+1306,Alien Vengeance II: Rogue Element,4.4,,,,,,
+1307,End Flux,,,,"CA$25,000 (estimated)",,,
+1308,Aliens and Crop Circles,3.4,,,,,,
+1309,Beyond Redemption: Space Captain,5.4,,,"A$100,000 (estimated)",,,
+1310,Kureji da yo: kisôtengai,6.5,,,,,,
+1311,Akce Bororo,6.7,,,,,,
+1312,Fujiyama Ichiban,7.8,,,,,,
+1313,"UFOs 1973: Aliens, Abductions and Extraordinary Sightings",6.2,,,,,,
+1314,Cosmic,,,,$70 (estimated),,,
+1315,Alien on Earth,,,,,,,
+1316,UFO Chronicles: Cosmic Watergate,6.5,,,,,,
+1317,The Null Zone: Episode One: Janus,,,,"$4,000 (estimated)",,,
+1318,Starzinger III,8.1,,,"$1,500,000 (estimated)",,,
+1319,Monster Invaders from Space,,,,,,,
+1320,The Ufologist,7.3,,,,,,
+1321,The Search for Kennyboy,7.7,,,"$12,000 (estimated)",,,
+1322,Charles Fort,,,,,,,
+1323,Dark Matters,,,,,,,
+1324,Spirit Link,,,,"$3,000 (estimated)",,,
+1325,White Light,,,,"$20,000 (estimated)",,,
+1326,Marriage Is for the Byrds,,,,"$9,000,000 (estimated)",,,
+1327,Aliens from Outer Space,5.8,,,,,,
+1328,Chalkboard,,,,"$5,000 (estimated)",,,
+1329,Sub khu ku lok,5.5,,,,,,"$320,411"
+1330,Ancient Astronauts: The Gods from Planet X,6.7,,,,,,
+1331,Soldiers of the Sun,,,,,,,
+1332,Gu-Gu Ganmo,5.6,,,,,,
+1333,Venus,,,,,,,
+1334,Nick Pope: The Man Who Left the MOD,4.4,,,,,,
+1335,Zoo Ship,4.9,,,,,,
+1336,Mind Out of Time,,,,,,,
+1337,Istorii napisannye krovyu,6.0,,,"RUR 1,000 (estimated)",,,
+1338,Rescue Paws,,,,,,,
+1339,Surkhaab,6.5,,,"CA$150,000 (estimated)",,,
+1340,Envoy,,,,,,,
+1341,John's Arm: Armageddon,6.8,,"August 21, 2008 (United States)","$1,200 (estimated)",,,
+1342,UFOs: Are We Alone?,,,,,,,
+1343,Untitled Randy McKinnon Project,,,,,,,
+1344,The Rising Light,6.4,,,,,,
+1345,Anonymous Celebrities: Animatic,,,,$200 (estimated),,,
+1346,Ezekiel's Landing,6.8,,,"$10,000 (estimated)",,,
+1347,He Comes from Planet K,4.9,,,,,,
+1348,Sergeant Keroro the Super Movie 3: Keroro vs. Keroro Great Sky Duel De Arimasu!,6.6,,,,,,"$7,106,223"
+1349,UFOs and Close Encounters,,,,,,,
+1350,"Alien Paranormal: Bigfoot, UFOs and the Men in Black",4.7,,,,,,
+1351,Black Sky,,,,,,,
+1352,Alien Origins by Lloyd Pye,4.2,,,,,,
+1353,"The Sun, the Sun Blinded Me",5.2,,,,,,
+1354,Secret Systems and How they control us,,,,,,,
+1355,The Point of Circles: 7 Circles motion comic,,,,£200 (estimated),,,
+1356,Last Chance: The Moment I Finally Embraced the Futility of Existence,8.8,,,,,,
+1357,Outer Man,6.0,,,,,,
+1358,Illegal Alien,4.8,,,,,,
+1359,Sightings,,,,,,,
+1360,Parema - Das Wesen aus der Sternenwelt,,,,,,,
+1361,Alien Zoo,,,,,,,
+1362,Space Dogz,7.6,,,"£5,000 (estimated)",,,
+1363,"Rachel, Nevada",,,,,,,
+1364,First Launch,,,,,,,
+1365,Si Darna at ang Planetman,5.8,,,,,,
+1366,Morningstar,,,,,,,
+1367,Star Force 7: The Chill of Distant Eyes,,,,"$30,000 (estimated)",,,
+1368,Rainy Day,,,,,,,
+1369,Abducted,,,,,,,
+1370,The Narrow Path,,,,,,,
+1371,Untitled Dwarka Project,,,,,,,
+1372,Cavaliers,,,,,,,
+1373,Zvyozdniy vors,6.5,,,,,,
+1374,Turf,,,,,,,
+1375,Star Appeal,3.7,,,,,,
+1376,Alchemik,5.8,,,,,,
+1377,Axiome,4.0,,,"€8,000 (estimated)",,,
+1378,72hrs the Hague: Viral,,,,,,,
+1379,Ancient Alien Agenda: Aliens and UFOs from the Area 51 Archives,,,,,,,
+1380,Kawao tee Bangpleng,5.2,,,,,,
+1381,Godz of Clay,,,,,,,
+1382,As Aventuras de Sergio Mallandro,6.5,,,,,,
+1383,The Night Skies,,,,,,,
+1384,Proof,,,,,,,
+1385,Extra,,,,"$3,500,000 (estimated)",,,
+1386,First Responders,,,,,,,
+1387,Fort Fight,,,,,,,
+1388,The Seventh,,,,,,,
+1389,The Superhero Who Loved Me,,,,,,,
+1390,Flight of the Bumblebee,,,,,,,
+1391,The Untitled Jerome Elston Scott Project,,,,,,,
+1392,Leave to Stay,6.3,,,"£30,000 (estimated)",,,
+1393,Koinonia,6.7,,,,,,
+1394,Terrestrial,,,,,,,
+1395,Star Child,,,,,,,
+1396,The Exile,4.8,,,"$40,000 (estimated)",,,
+1397,The Hunter,,,,,,,
+1398,R'ha,,,,,,,
+1399,Astronomy of Errors,5.8,,,,,,
+1400,Cumulus 9,5.9,,"May 26, 1992 (United States)","$75,000 (estimated)",,,
+1401,The Light,4.9,,,"$15,000 (estimated)",,,
+1402,Embrace Eternity,,,,"£9,000 (estimated)",,,
+1403,Crazy Bugs: The Movie,,,,,,,
+1404,Blue Demon y las invasoras,5.6,,,,,,
+1405,The Children of Terra Firma,6.3,,,,,,
+1406,Juego de niños,7.4,,,"ESP 48,000,000 (estimated)",,,
+1407,Phi-Nall Space Wars,,,,,,,
+1408,Triptico,,,,,,,
+1409,Scouts vs Aliens,6.7,,,"CA$2,500 (estimated)",,,
+1410,Mountains on the Moon,5.9,,,,,,
+1411,Dreams of Allon,,,,,,,
+1412,Distress Call,,,,,,,
+1413,Highway to Santa Fe,6.5,,,"$15,000 (estimated)",,,
+1414,First Continuum,,,,,,,
+1415,Die Eylandt Recherche,5.4,,"November 6, 2008 (Germany)","€250,000 (estimated)",,,"$20,604"
+1416,Alien Death Drivers,,,,,,,
+1417,Wooly Booly 2: Ang titser kong alien,6.2,,,,,,
+1418,"Aliens, UFOS and the New World Order",,,,,,,
+1419,Katotohanan o guniguni? The Movie Part II,6.9,,,,,,
+1420,Cheezy Science Fiction Vol.1,,,,,,,
+1421,Abducted the Y Files,,,,,,,
+1422,In the Know,,,,,,,
+1423,Alien Lovers,,,,,,,
+1424,Aliens Are to Be Blamed for Everything,4.0,,,,,,
+1425,Alien American,,,,,,,
+1426,Defender Federal Agent 8,,,,"$1,100,000 (estimated)",,,
+1427,Die weibliche Kampfmaschine,,,,,,,
+1428,The World According to David Liebe Hart,8.1,,,,,,
+1429,Traveller: Red,5.2,,,,,,
+1430,Sudden Energy at S4,,,,,,,
+1431,Wir sind nicht allein,,,,"€20,000 (estimated)",,,
+1432,Go Mutants!,,,,,,,
+1433,Life on Earth: Do You Have a Message? Part 2,,,,,,,
+1434,One Night in Portland,,,,,,,
+1435,Proceed to the Route,,,,,,,
+1436,Seat of Judgement,,,,"£10,000 (estimated)",,,
+1437,Project: Alien ZB,,,,,,,
+1438,Evolution,,,,,,,
+1439,Foiled,6.1,,,,,,
+1440,Crop Circles the Enigma,,,,,,,
+1441,How Is NASA Contacting Aliens?,,,,,,,
+1442,Exzur,,,,,,,
+1443,Out There,,,,,,,
+1444,Target Audience 9.1,6.3,,,"$45,000 (estimated)",,,
+1445,Beyond Borders: The Debate Over Human Migration,8.6,,,"$250,000 (estimated)",,,
+1446,Alien Inhabitant,4.0,,,,,,
+1447,Mezhzvyozdnyie voyny. Sila probuzhdayetsya,8.1,,,RUR 60 (estimated),,,
+1448,The Men of Action: M.O.A.,3.0,,,"$20,000 (estimated)",,,
+1449,Life on Earth: Do You Have a Message? Part 1,,,,,,,
+1450,Pitasakwala Abirahasa,,,,,,,
+1451,The Randoms,,,,,,,
+1452,Paradox,,,,,,,
+1453,The Parchene Conspiracy,6.7,,"May 16, 2009 (United States)","$45,000 (estimated)",,,
+1454,With a Mouse: To Your Mouth,,,,,,,
+1455,Show Me the Aliens!,7.6,,,,,,
+1456,Captain Faggotron Saves the Universe,,,,"€12,000 (estimated)",,,
+1457,Heriuddo,5.7,,,,,,
+1458,Alien Encounters in America: UFOs and Extraterrestrial Visitations,,,,"$1,000,000 (estimated)",,,$997
+1459,"Alieno, l'uomo del futuro",3.5,,,"€300,000 (estimated)",,,
+1460,The Third Incursion,,,,,,,
+1461,Tomorrow's End,,,,,,,
+1462,Alieni a Ponte Mammolo,2.9,,,,,,
+1463,Galax-Arena,,,,,,,
+1464,Jogingu wataridori,,,,,,,
+1465,The Sydical Tape,,,,"€10,000 (estimated)",,,
+1466,Jack Russel: Zachránce planety,,,,,,,
+1467,Planet 42 from Outer Space,,,,,,,
+1468,Chryzinium,,,,,,,
+1469,Doverfield,2.8,,,"£4,000 (estimated)",,,
+1470,Galaxy Four,,,,,,,
+1471,The Universe Code,,,,,,,
+1472,Weatherchangers,,,,,,,
+1473,Samchongsa: Taimmeosin 001,5.8,,,,,,
+1474,Laajool,7.6,,,,,,
+1475,Zapping-Alien@Mozart-Balls,4.0,,,,,,
+1476,Stranded in the Unknown,,,,"CA$500,000 (estimated)",,,
+1477,It Lived in My Flat,,,,,,,
+1478,Modern Imbecile's Planet World,7.2,,,"$25,000 (estimated)",,,
+1479,Run,7.7,,,,,,
+1480,The Magic Dust,,,,,,,
+1481,The Other Four,,,,,,,
+1482,Realms the Shadow Man,,,,,,,
+1483,The Law,4.2,,,"$150,000 (estimated)",,,
+1484,Allô la Terre: vous avez un message? Partie 1,,,,,,,
+1485,Die You Alien Scum!,,,,,,,
+1486,"Konfargre, the Dark Brotherhood",,,,,,,
+1487,Jancroon,,,,,,,
+1488,Chameleon,,,,,,,
+1489,Nodes,,,,,,,
+1490,Nonstop,,,,,,,
+1491,Evo,,,,,,,
+1492,Absonum,,,,,,,
+1493,Criteria One,,,,,,,
+1494,Illumination,,,,"$9,000 (estimated)",,,
+1495,Cryptid File: AL13N,,,,,,,
+1496,Alien at Large,,,,,,,
+1497,Watch the Night Skies,,,,,,,
+1498,Ascension (Serendipitous),,,,,,,
+1499,Small Town,,,,,,,
+1500,"The Truth About Tom, Dick and Harry",,,,,,,
+1501,Transcendent,,,,,,,
+1502,Realms Hunt for the Shadow Man,2.7,,,,,,
+1503,Trail of the UFO,,,,,,,
+1504,Not from Human Hands,,,,,,,
+1505,Uritorco,,,,,,,
+1506,UFO Encounter of the Third Kind: The Rendlesham UFO Case,,,,,,,
+1507,G.T.W.A.,,,,"PLN 4,000 (estimated)",,,
+1508,Ether Wars: Return of the Fallen,,,,,,,
+1509,Ocharovatelnye prisheltsy,4.2,,,,,,
+1510,Allô la Terre: vous avez un message? Partie 2,,,,,,,
+1511,Cased,,,,"€1,000 (estimated)",,,
+1512,Glitch,,,,,,,
+1513,Desert Space,,,,,,,
+1514,The Alien Time Machine: Encounters from Another Dimension,,,,,,,
+1515,Ten Eleven O Two,,,,,,,
+1516,Fraternity of Horror,,,,,,,
