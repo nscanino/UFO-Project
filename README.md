@@ -10,6 +10,7 @@
   6. You can filter by multiple keywords by separating them with a /.
   7. You can queue multiple scrapes by entering 'n' into the second prompt and repeating steps 4-6. When you are finished queuing scrapes, enter 'y'.
   8. Now go do something that takes a while, and when you come back the data you wanted should be in a .csv in the same folder you ran the code from!
+Known bugs: movie description is currently not being grabbed in all cases.
  
 #### Scrape_NUFORC.ipynb
   1. This one is more straightforward. You simply need to have pandas and BeautifulSoup.  Run all cells in order and you should be left with a semi-usable .csv containing info on all reports made to NUFORC in the last ~100 years.
