@@ -5,6 +5,8 @@
 #### IMDb Scrape
 The current code for scraping IMDb definitely isn't as elegant as I'd like it to be. It still contains some relics from the "working out the kinks" phase, and it probably could be optimized a bit better as well.  That being said, it does currently work as intended, and anyone who has chromedriver.exe somewhere in their path can pull it, run the program, and get movie data for all movies related to the entered plot keyword.  Note that the data definitely isn't clean yet, the dollar amounts are strings and some have '(estimated)' text at the end... nothing that can't be handled if you for whatever reason wanted to use it in the current state, but annoying nonethless.
 
+** NOTE ** When entering keywords, the program only works if you enter a keyword that IMDb recognizes.  It's probably best to first search for the keyword you want to use on IMDb to confirm that it actually gives results.
+
 #### NUFORC Scrape
 I'm a bit torn on how to handle the current state of the NUFORC scraping code.  The data that it exports does contain some bad rows, so there's some bug exploration needed, but I'm also thinking it might be better to just re-do the project using selenium. At the same time, I'm proud of what I was able to do without using it, and it feels wrong to just get rid of the code I sweated over for an entire day.  If you're interested, go and take a look!
 
