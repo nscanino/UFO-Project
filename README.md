@@ -7,12 +7,12 @@
   3. Run all cells in order. 
   4. When you run the last cell, you will be prompted to enter the keyword(s) you wish to search by.
   5. *important* The program only works if you enter a keyword that IMDb recognizes.  It's probably best to first search for the keyword you want on IMDb to confirm that it actually will give results.
-  6. You can filter by multiple keywords by separating them with a /
+  6. You can filter by multiple keywords by separating them with a /.
   7. You can queue multiple scrapes by entering 'n' into the second prompt and repeating steps 4-6. When you are finished queuing scrapes, enter 'y'.
   8. Now go do something that takes a while, and when you come back the data you wanted should be in a .csv in the same folder you ran the code from!
  
 #### Scrape_NUFORC.ipynb
-  1. This one is more straightforward. You simply need to have pandas and BeautifulSoup.  Run all cells in order and you should be left with a semi-usable .csv containing info on all report made to NUFORC in the last ~100 years.
+  1. This one is more straightforward. You simply need to have pandas and BeautifulSoup.  Run all cells in order and you should be left with a semi-usable .csv containing info on all reports made to NUFORC in the last ~100 years.
 
 #### Analysis.ipynb
   1. I don't recommend doing anything with this yet. It's outdated and hasn't been updated to reflect changes made in the source files.
