@@ -1,4 +1,4 @@
-## Welcome to my first attempt at scraping raw data from the web using selenium!
+## Welcome to my first attempt at scraping data from the web using selenium!
 
 ### Instructions:
 #### Scrape_IMDB.ipynb
