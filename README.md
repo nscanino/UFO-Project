@@ -16,7 +16,7 @@ Known bugs: movie description is currently not being grabbed in all cases.
   1. This one is more straightforward. You simply need to have pandas and BeautifulSoup.  Run all cells in order and you should be left with a semi-usable .csv containing info on all reports made to NUFORC in the last ~100 years.
 
 #### Analysis.ipynb
-  1. I don't recommend doing anything with this yet. All I've done so far here is organized the necessary data, haven't actually started analyzing it yet.
+  1. At the moment you can see my set up, i.e. data manipulation and how I'm deciding if an increase was seen following each movie release.  The data/results are inaccurate because currently the program is only analyzing reports surrounding movie release dates after 2009. Once that is fixed I think the program I currently have written will still work and will give me the results I desire.
 
 ### Current Progress:
 
@@ -27,7 +27,9 @@ The current code for scraping IMDb definitely isn't as elegant as I'd like it to
 I'm a bit torn on how to handle the current state of the NUFORC scraping code.  The data that it exports does contain some bad rows, so there's some bug exploration needed, but I'm also thinking it might be better to just re-do the project using selenium. At the same time, I'm proud of what I was able to do without using it, and it feels wrong to just get rid of the code I sweated over for an entire day.  If you're interested, go and take a look!
 
 #### Analysis
-I haven't gotten very far with the analysis portion yet, mainly because I only just finished collecting the data and haven't had a chance to clean it yet.  I do have a gameplan as far as the stats that will help me answer the questions I'm asking, and I'm confident I should be able to upload some interesting visualizations and results soon enough.
+I've begun the analysis portion but am running into a few issues. The biggest issue right now is that for some reason I'm not grabbing the count of reports for days prior to 2009.  Currently, the results of my analysis show that the number of reports is purely random in relation to the release of an alien movie. I'm thinking we aren't getting dates prior to 2009 due to a simple mistake having to do with how I'm dropping NaN rows, and those results might change after remedying that mistake.
+
+If I can't figure out why it isn't working correctly right now, I'll probably just grab another dataset from NUfORC, this time separating reports by day rather than by state. The count for each day can easily be grabbed from http://www.nuforc.org/webreports/ndxevent.html.
 
 ### The Story:
 
