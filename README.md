@@ -12,8 +12,10 @@
   8. Now go do something that takes a while, and when you come back the data you wanted should be in a .csv in the same folder you ran the code from!
 Known bugs: movie description is currently not being grabbed in all cases.
  
-#### Scrape_NUFORC.ipynb
-  1. This one is more straightforward. You simply need to have pandas and BeautifulSoup.  Run all cells in order and you should be left with a semi-usable .csv containing info on all reports made to NUFORC in the last ~100 years.
+#### Scrape_NUFORC_V2.ipynb
+  1. Same initial requirements as above.
+  2. Run all cells.
+  3. Once program is done you should have a .csv with ~120k rows of UFO reports in the same file you ran the notebook from.
 
 #### Analysis.ipynb
   1. At the moment you can see my set up, i.e. data manipulation and how I'm deciding if an increase was seen following each movie release.  The data/results are inaccurate because currently the program is only analyzing reports surrounding movie release dates after 2009. Once that is fixed I think the program I currently have written will still work and will give me the results I desire.
