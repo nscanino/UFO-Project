@@ -15,7 +15,7 @@ Known bugs: movie description is currently not being grabbed in all cases.
 #### Scrape_NUFORC_V2.ipynb
   1. Same initial requirements as above.
   2. Run all cells.
-  3. Once program is done you should have a .csv with ~120k rows of UFO reports in the same file you ran the notebook from.
+  3. Once program is done you should have a .csv with ~135k rows of UFO reports in the same file you ran the notebook from.
 
 #### Analysis.ipynb
   1. At the moment you can see my set up, i.e. data manipulation and how I'm deciding if an increase was seen following each movie release.  The data/results are inaccurate because currently the program is only analyzing reports surrounding movie release dates after 2009. Once that is fixed I think the program I currently have written will still work and will give me the results I desire.
@@ -26,23 +26,7 @@ Known bugs: movie description is currently not being grabbed in all cases.
 The current code for scraping IMDb definitely isn't as elegant as I'd like it to be. It still contains some relics from the "working out the kinks" phase, and it probably could be optimized a bit better as well.  That being said, it does currently work as intended, and anyone who has chromedriver.exe somewhere in their path can pull it, run the program, and get movie data for all movies related to the entered plot keyword.  Note that the data definitely isn't clean yet, the dollar amounts are strings and some have '(estimated)' text at the end... nothing that can't be handled if you for whatever reason wanted to use it in the current state, but annoying nonethless.
 
 #### NUFORC Scrape
-I'm a bit torn on how to handle the current state of the NUFORC scraping code.  The data that it exports does contain some bad rows, so there's some bug exploration needed, but I'm also thinking it might be better to just re-do the project using selenium. At the same time, I'm proud of what I was able to do without using it, and it feels wrong to just get rid of the code I sweated over for an entire day.  If you're interested, go and take a look!
+I've scrapped the initial method of scraping the NUFORC data (by state) and have instead created "Scrape_NUFORC_bymonth.ipynb". This file is much more elegant because it makes more intelligent use of beautifulsoup than my first attempt (namely, I'm not just brute-force processing the raw html...).  This update not only alleviated most of the bad data I was seeing previously, but also expanded the search to include more reports. Additionally, each row now has a 'Year' column, to help differentiate between, for instance, 1/1/2012 and 1/1/1912 (NUFORC date format is m/d/yy).
 
 #### Analysis
-I've begun the analysis portion but am running into a few issues. The biggest issue right now is that for some reason I'm not grabbing the count of reports for days prior to 2009.  Currently, the results of my analysis show that the number of reports is purely random in relation to the release of an alien movie. I'm thinking we aren't getting dates prior to 2009 due to a simple mistake having to do with how I'm dropping NaN rows, and those results might change after remedying that mistake.
-
-If I can't figure out why it isn't working correctly right now, I'll probably just grab another dataset from NUfORC, this time separating reports by day rather than by state. The count for each day can easily be grabbed from http://www.nuforc.org/webreports/ndxevent.html.
-
-### The Story:
-
-Over the last few months, I've been downloading datasets from Kaggle.com and using them to practice my data science skills (analysis, visualization, etc.).
-
-I was browsing the web for more interesting data sets outside of Kaggle, when I happened upon NUFORC.org, a website housing all reports made to the National UFO Reporting Center. Unfortunately, the website does not come with a "download" feature, and to make matters worse, the data is separated across various pages by state, year, shape of craft, etc., rather than being housed all-in-one.  I was effectively stuck with the toolset I had at the time. After doing a little searching, I found the BeautifulSoup Python package, which I was able to use to parse the source HTML from each page.  This was done in the jupyter notebook Scrape_NUFORC.ipynb.
-
-After taking a look through the data, I figured it might be fun to look into the frequency of reports as it relates to some other variable. I decided to answer the question:
-
-## Does the frequency of UFO reports across the U.S. increase following the release of popular Alien-related movies?
-
-To answer this question, I needed to find, of course, some data about movies relating to Aliens. I figured my best option was to go to IMDb.com and do the same thing I did with the NUFORC data: parse the source HTML using BeautifulSoup.  IMDb, however, loads all of their pages dynamically, so I wasn't going to be able to do this with just BeautifulSoup alone.  Enter Selenium! Using Selenium, I was able to automate an instance of Chrome to visit IMDb, search for movies by a specified keyword, load and grab the necessary info from each movie's page, and bundle it all into a DataFrame which could be easily exported into a .csv using the Pandas library.  This was done in the jupyter notebook Scrape_IMDb.ipynb
-
-Once I've completed the analysis, I'll update this section to include some of the more interesting findings. Thanks for checking this out!
+The analysis portion is currently in progress. You can check out the file to see the latest findings, although be warned that it will be a little messy for the moment. I'm thinking of taking the analysis a few steps further than asking "how does reporting frequency relate to movie releases?"; I think it would be interesting to zoom in on a few hand-picked movies, selected based on how influential I feel they are/were in the perception of alien life, and see what there is to see.
